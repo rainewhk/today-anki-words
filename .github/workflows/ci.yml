@@ -1,0 +1,43 @@
+name: CI/CD Workflow
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+#   push:
+#     branches:
+#       - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Source Code
+        uses: actions/checkout@v7
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+      - name: Install uv dependencies
+        run: uv sync --locked --no-dev
+      - name: Sync Anki
+        run: uv run --no-sync scripts/sync_anki.py
+        env:
+          ANKI_USER: ${{ secrets.ANKI_USER }}
+          ANKI_PASS: ${{ secrets.ANKI_PASS }}
+          PYTHONUNBUFFERED: 1
+          PYTHONUTF8: 1
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: update data [skip ci]"
+            git push origin main
+          fi
