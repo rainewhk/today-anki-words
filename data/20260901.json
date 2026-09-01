@@ -672,6 +672,12 @@
         "translation": "adj. 宝贵的，珍贵的；珍视的，重要的；珍稀的，珍奇的；<非正式>（表示气愤）宝贝似的；（言行）矫揉造作的，过分讲究的；<美，非正式>可爱的，讨人喜欢的<br>n. （用作称呼）宝贝，亲爱的<br>adv. 非常，极其"
     },
     {
+        "value": "overdog",
+        "US": "/ˈoʊvərdɔːɡ/",
+        "UK": "/ˈəʊvədɒɡ/",
+        "translation": "n. 占上风者；属于统治阶级或特权阶级者"
+    },
+    {
         "value": "surname",
         "US": "/ˈsɜːrneɪm/",
         "UK": "/ˈsɜːneɪm/",
@@ -706,6 +712,12 @@
         "US": "/ˈwɔːlnʌt/",
         "UK": "/ˈwɔːlnʌt/",
         "translation": "n. 胡桃，核桃；胡桃树，核桃树；胡桃木，核桃木；胡桃色"
+    },
+    {
+        "value": "stainless",
+        "US": "/ˈsteɪnləs/",
+        "UK": "/ˈsteɪnləs/",
+        "translation": "adj. 不锈的，防锈的；无污点的；（人，名声）纯洁的，无瑕的<br>n. 不锈钢"
     },
     {
         "value": "flame",
@@ -1062,12 +1074,6 @@
         "translation": "v. 疏于照顾，未予看管；不予重视，忽视；漏做<br>n. 忽略，忽视，未被重视"
     },
     {
-        "value": "overdog",
-        "US": "/ˈoʊvərdɔːɡ/",
-        "UK": "/ˈəʊvədɒɡ/",
-        "translation": "n. 占上风者；属于统治阶级或特权阶级者"
-    },
-    {
         "value": "perception",
         "US": "/pərˈsepʃ(ə)n/",
         "UK": "/pəˈsepʃ(ə)n/",
@@ -1090,12 +1096,6 @@
         "US": "/ˌriːjuˈnaɪt/",
         "UK": "/ˌriːjuˈnaɪt/",
         "translation": "v. （使）团聚，（使）重聚；（使）再结合，（使）重新团结"
-    },
-    {
-        "value": "stainless",
-        "US": "/ˈsteɪnləs/",
-        "UK": "/ˈsteɪnləs/",
-        "translation": "adj. 不锈的，防锈的；无污点的；（人，名声）纯洁的，无瑕的<br>n. 不锈钢"
     },
     {
         "value": "pad",
