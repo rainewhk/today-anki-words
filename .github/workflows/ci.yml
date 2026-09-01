@@ -24,7 +24,10 @@ jobs:
       - name: Install uv dependencies
         run: uv sync --locked --no-dev
       - name: Sync Anki
-        run: uv run --no-sync scripts/sync_anki.py
+        run: |
+          mkdir -p data
+          mkdir -p voice
+          uv run --no-sync scripts/sync_anki.py
         env:
           ANKI_USER: ${{ secrets.ANKI_USER }}
           ANKI_PASS: ${{ secrets.ANKI_PASS }}
