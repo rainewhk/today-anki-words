@@ -1,224 +1,224 @@
-fortify, fortify.
-carnival, carnival.
-literally, literally.
-vacant, vacant.
-socket, socket.
-profound, profound.
-scalable, scalable.
-diarrhoea, diarrhoea.
-sore, sore.
-resume, resume.
-nail, nail.
-nursery, nursery.
-vaccine, vaccine.
-endeavor, endeavor.
-glue, glue.
-retreat, retreat.
-subsequently, subsequently.
-physician, physician.
-ventilate, ventilate.
-sorrow, sorrow.
-toll, toll.
-wonderland, wonderland.
-principal, principal.
-moderate, moderate.
-spade, spade.
-loyal, loyal.
-worn, worn.
-vague, vague.
-spectacular, spectacular.
-insult, insult.
-gossip, gossip.
-naked, naked.
-obesity, obesity.
-vain, vain.
-spice, spice.
-reverberate, reverberate.
-disillusion, disillusion.
-revolve, revolve.
-monument, monument.
-acute, acute.
-gratify, gratify.
-trigger, trigger.
-exhale, exhale.
-quantity, quantity.
-spite, spite.
-magnificent, magnificent.
-cemetery, cemetery.
-exhalation, exhalation.
-van, van.
-cozy, cozy.
-banquet, banquet.
-yawn, yawn.
-revelation, revelation.
-vehicle, vehicle.
-crack, crack.
-whirlpool, whirlpool.
-occurrence, occurrence.
-vein, vein.
-pan, pan.
-pulse, pulse.
-fiber, fiber.
-notable, notable.
-venue, venue.
-alleviate, alleviate.
-grill, grill.
-pumpkin, pumpkin.
-stewardship, stewardship.
-pity, pity.
-curse, curse.
-skepticism, skepticism.
-pronounced, pronounced.
-race, race.
-curator, curator.
-bust, bust.
-rid, rid.
-lawful, lawful.
-radiation, radiation.
-antique, antique.
-kindergarten, kindergarten.
-ethical, ethical.
-instinct, instinct.
-lawn, lawn.
-raft, raft.
-curatorship, curatorship.
-grocery, grocery.
-leaf, leaf.
-ratio, ratio.
-plunge, plunge.
-grief, grief.
-ripen, ripen.
-tap, tap.
-stripe, stripe.
-breathability, breathability.
-bachelor, bachelor.
-league, league.
-nuance, nuance.
-continuous, continuous.
-tragedy, tragedy.
-reception, reception.
-prompt, prompt.
-masterful, masterful.
-modulation, modulation.
-supposedly, supposedly.
-popcorn, popcorn.
-promptly, promptly.
-chief, chief.
-virtual, virtual.
-suburb, suburb.
-jam, jam.
-equity, equity.
-radioprotection, radioprotection.
-allegedly, allegedly.
-symmetry, symmetry.
-succeed, succeed.
-eagle, eagle.
-chorus, chorus.
-prized, prized.
-impeccable, impeccable.
-rot, rot.
-opening, opening.
-vitality, vitality.
-iceberg, iceberg.
-emanating, emanating.
-maritime, maritime.
-rub, rub.
-mandatory, mandatory.
-concede, concede.
-supper, supper.
-particle, particle.
-plummet, plummet.
-sweat, sweat.
-edgewise, edgewise.
-rectangle, rectangle.
-sweater, sweater.
-martial, martial.
-rugby, rugby.
-puberty, puberty.
-pot, pot.
-incubation, incubation.
-empathy, empathy.
-commute, commute.
-garage, garage.
-residual, residual.
-salute, salute.
-sweep, sweep.
-mass, mass.
-sausage, sausage.
-outsource, outsource.
-refreshment, refreshment.
-inferior, inferior.
-savage, savage.
-outspoken, outspoken.
-resurge, resurge.
-affection, affection.
-confess, confess.
-commuter, commuter.
-outstanding, outstanding.
-scarce, scarce.
-mat, mat.
-scenic, scenic.
-backed, backed.
-comparison, comparison.
-negotiable, negotiable.
-peacock, peacock.
-scrape, scrape.
-outstretched, outstretched.
-reinforce, reinforce.
-triumph, triumph.
-scroll, scroll.
-thereby, thereby.
-deed, deed.
-clay, clay.
-thermos, thermos.
-washroom, washroom.
-envision, envision.
-mechanic, mechanic.
-clueless, clueless.
-prehistoric, prehistoric.
-intense, intense.
-peer, peer.
-shall, shall.
-outsized, outsized.
-broadcast, broadcast.
-tsunami, tsunami.
-utter, utter.
-hypothetical, hypothetical.
-remains, remains.
-shell, shell.
-veteran, veteran.
-merciful, merciful.
-liter, liter.
-shuttle, shuttle.
-uncharted, uncharted.
-sideroad, sideroad.
-thumb, thumb.
-wax, wax.
-commission, commission.
-preview, preview.
-eviction, eviction.
-unify, unify.
-germ, germ.
-weed, weed.
-painstaking, painstaking.
-conceive, conceive.
-giraffe, giraffe.
-chiefly, chiefly.
-unrest, unrest.
-concrete, concrete.
-overpass, overpass.
-welfare, welfare.
-transformation, transformation.
-slogan, slogan.
-prior, prior.
-isolated, isolated.
-unselfish, unselfish.
-auditory, auditory.
-well-rounded, well-rounded.
-sneaker, sneaker.
-unsuspecting, unsuspecting.
-sob, sob.
-glare, glare.
-intensity, intensity.
-expansive, expansive.
-neutral, neutral.
+fortify.
+carnival.
+literally.
+vacant.
+socket.
+profound.
+scalable.
+diarrhoea.
+sore.
+utter.
+resume.
+nail.
+nursery.
+vaccine.
+endeavor.
+glue.
+retreat.
+subsequently.
+physician.
+ventilate.
+sorrow.
+toll.
+wonderland.
+principal.
+moderate.
+spade.
+loyal.
+worn.
+vague.
+spectacular.
+insult.
+gossip.
+naked.
+obesity.
+vain.
+spice.
+reverberate.
+disillusion.
+revolve.
+monument.
+acute.
+gratify.
+trigger.
+exhale.
+quantity.
+spite.
+magnificent.
+cemetery.
+exhalation.
+van.
+cozy.
+banquet.
+yawn.
+revelation.
+vehicle.
+crack.
+occurrence.
+vein.
+pan.
+pulse.
+fiber.
+notable.
+venue.
+alleviate.
+grill.
+pumpkin.
+stewardship.
+pity.
+curse.
+skepticism.
+pronounced.
+race.
+curator.
+bust.
+rid.
+lawful.
+radiation.
+antique.
+kindergarten.
+ethical.
+instinct.
+lawn.
+raft.
+curatorship.
+grocery.
+leaf.
+ratio.
+plunge.
+grief.
+ripen.
+tap.
+stripe.
+breathability.
+bachelor.
+league.
+nuance.
+continuous.
+tragedy.
+reception.
+prompt.
+jam.
+masterful.
+supposedly.
+popcorn.
+modulation.
+promptly.
+chief.
+virtual.
+suburb.
+equity.
+radioprotection.
+allegedly.
+symmetry.
+whirlpool.
+succeed.
+eagle.
+chorus.
+emanating.
+prized.
+impeccable.
+rot.
+opening.
+vitality.
+iceberg.
+maritime.
+rub.
+mandatory.
+concede.
+supper.
+particle.
+plummet.
+sweat.
+edgewise.
+rectangle.
+sweater.
+martial.
+rugby.
+puberty.
+pot.
+incubation.
+empathy.
+commute.
+garage.
+residual.
+salute.
+sweep.
+mass.
+sausage.
+outsource.
+refreshment.
+inferior.
+savage.
+outspoken.
+resurge.
+affection.
+confess.
+commuter.
+outstanding.
+scarce.
+mat.
+scenic.
+backed.
+comparison.
+peacock.
+scrape.
+outstretched.
+reinforce.
+negotiable.
+triumph.
+thereby.
+scroll.
+deed.
+clay.
+thermos.
+washroom.
+mechanic.
+clueless.
+prehistoric.
+intense.
+envision.
+peer.
+outsized.
+broadcast.
+shall.
+tsunami.
+shell.
+hypothetical.
+remains.
+veteran.
+merciful.
+liter.
+shuttle.
+uncharted.
+sideroad.
+thumb.
+wax.
+commission.
+preview.
+eviction.
+unify.
+germ.
+weed.
+painstaking.
+conceive.
+giraffe.
+chiefly.
+unrest.
+concrete.
+overpass.
+welfare.
+transformation.
+slogan.
+prior.
+isolated.
+unselfish.
+auditory.
+well-rounded.
+sneaker.
+unsuspecting.
+sob.
+glare.
+intensity.
+expansive.
+neutral.
