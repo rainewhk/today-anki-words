@@ -31,4 +31,4 @@ with open(f"data/{current_date}.json", "w", encoding="utf-8") as f:
 with open(f"voice/{current_date}.txt", "w", encoding="utf-8") as f:
     for field in fields:
         value = field['value']
-        print(f"{value}, {value}.", file=f)
+        print(f"{value}.", file=f)
