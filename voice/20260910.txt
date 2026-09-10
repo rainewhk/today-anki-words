@@ -4,9 +4,11 @@ intervention.
 skull.
 estimate.
 oval.
-whip.
+resolve.
 luxurious.
+whip.
 skydiving.
+sidewalk.
 litter.
 restrict.
 integrity.
@@ -213,12 +215,10 @@ persistent.
 garage.
 weed.
 scroll.
-resolve.
 personnel.
 sector.
 thereby.
 weep.
-sidewalk.
 shallow.
 outspoken.
 subsequently.
