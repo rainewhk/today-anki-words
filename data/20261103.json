@@ -1,0 +1,2102 @@
+[
+    {
+        "value": "subconscious",
+        "US": "/ˌsʌbˈkɑːnʃəs/",
+        "UK": "/ˌsʌbˈkɒnʃəs/",
+        "translation": "adj. 下意识的，潜意识的<br>n. 下意识，潜意识"
+    },
+    {
+        "value": "herald",
+        "US": "/ˈherəld/",
+        "UK": "/ˈherəld/",
+        "translation": "v. 预示……的来临；宣布，宣传；热烈欢迎；公开称赞<br>n. 预兆；使者，先驱；棘翅夜蛾；&lt;古&gt; 掌礼官，（负责比武大会的）纹章官；（英国）宗谱纹章院或苏格兰纹章院官员（位低于纹章官助理）"
+    },
+    {
+        "value": "blanket",
+        "US": "/ˈblæŋkɪt/",
+        "UK": "/ˈblæŋkɪt/",
+        "translation": "n. 毯子，毛毯；厚层，覆盖层；气氛，氛围；障碍，障碍物；（平版印刷的）橡皮布；（平版印刷的）橡皮<br>v. 覆盖，盖住，笼罩；消除（声音），使（声音）模糊不清；迎风航行抢（他船）的上风<br>adj. 总括的，全面的，通用的"
+    },
+    {
+        "value": "disqualify",
+        "US": "/dɪsˈkwɑːlɪfaɪ/",
+        "UK": "/dɪsˈkwɒlɪfaɪ/",
+        "translation": "vt. 取消……的资格"
+    },
+    {
+        "value": "offence",
+        "US": "/əˈfens/",
+        "UK": "/əˈfens/",
+        "translation": "n. 违法行为，犯罪；冒犯，得罪；过错，不当；讨厌的东西，引起反感的事物；<正式>攻击，攻击行为"
+    },
+    {
+        "value": "allegedly",
+        "US": "/əˈledʒɪdli/",
+        "UK": "/əˈledʒɪdli/",
+        "translation": "adv. 据说，据宣称"
+    },
+    {
+        "value": "offensive",
+        "US": "/əˈfensɪv/",
+        "UK": "/əˈfensɪv/",
+        "translation": "adj. 无礼的，冒犯的；令人不快（讨厌）的；攻击的，进攻性的； <美>（体育比赛中）进攻的，攻势的<br>n. （军事）进攻，攻势；  （引人注意的）系列行动，攻势"
+    },
+    {
+        "value": "tightfisted",
+        "US": "/ˈtaɪtˌfɪstɪd/",
+        "UK": "/ˌtaɪtˈfɪstɪd/",
+        "translation": "adj. 吝啬的"
+    },
+    {
+        "value": "grumble",
+        "US": "/ˈɡrʌmb(ə)l/",
+        "UK": "/ˈɡrʌmb(ə)l/",
+        "translation": "v. 抱怨，嘟囔；咕隆，发轰隆声；（内脏）间歇性地闹病<br>n. 抱怨，牢骚；咕隆声"
+    },
+    {
+        "value": "omit",
+        "US": "/əˈmɪt/",
+        "UK": "/əˈmɪt/",
+        "translation": "v. 省去，遗漏；不做，未能做"
+    },
+    {
+        "value": "mischief",
+        "US": "/ˈmɪstʃɪf/",
+        "UK": "/ˈmɪstʃɪf/",
+        "translation": "n. 恶作剧，捣乱，胡闹；顽皮，淘气；伤害，麻烦，不和；（律）造成损害的行为"
+    },
+    {
+        "value": "opening",
+        "US": "/ˈoʊpənɪŋ/",
+        "UK": "/ˈəʊpənɪŋ/",
+        "translation": "n. 洞，缺口；开始，开端；开幕式，落成典礼；国际象棋的开局；首次发生，首演；开案陈述；机会，机遇；空缺的职位；开放，开业；开，打开；&lt;美&gt;（林中）空地；开襟，开口<br>adj. 开始的，开端的<br>v. 打开，开启；开放，展开；开业，开门"
+    },
+    {
+        "value": "oral",
+        "US": "/ˈɔːrəl/",
+        "UK": "/ˈɔːrəl/",
+        "translation": "adj. 口头的，口述的；口的，口腔的；（药物）口服的；（语音）口腔发声的；（社会）没有文字的；（心理分析）口欲的，口唇的<br>n. （尤指外语）口试；<美>（大学里的）口试"
+    },
+    {
+        "value": "briefing",
+        "US": "/ˈbriːfɪŋ/",
+        "UK": "/ˈbriːfɪŋ/",
+        "translation": "n. 情况介绍会；简报；详细指示，详情介绍<br>v. 给……指示，向……介绍情况"
+    },
+    {
+        "value": "confidential",
+        "US": "/ˌkɑːnfɪˈdenʃ(ə)l/",
+        "UK": "/ˌkɒnfɪˈdenʃ(ə)l/",
+        "translation": "adj. 机密的，保密的；（言谈举止）神秘的，隐秘的；受信任的，委以机密的"
+    },
+    {
+        "value": "outbreak",
+        "US": "/ˈaʊtbreɪk/",
+        "UK": "/ˈaʊtbreɪk/",
+        "translation": "n. （战争、疾病、暴力等的）爆发，突然发生"
+    },
+    {
+        "value": "soar",
+        "US": "/sɔːr/",
+        "UK": "/sɔː(r)/",
+        "translation": "v. （数量、价值、水平、规模等）急升，猛涨；高飞，翱翔；升空，升腾；（精神或希望）高涨；(树木、建筑等）高耸，屹立；升至（很高的高度），高达；（音乐）升高，增强<br>n. 高飞；高涨"
+    },
+    {
+        "value": "plummet",
+        "US": "/ˈplʌmɪt/",
+        "UK": "/ˈplʌmɪt/",
+        "translation": "v. （数量、价值等）暴跌；（尤指从高处）坠落<br>n. 铅锤，测深锤；骤降"
+    },
+    {
+        "value": "outlook",
+        "US": "/ˈaʊtlʊk/",
+        "UK": "/ˈaʊtlʊk/",
+        "translation": "n. 看法，态度；前景，展望；景色，风光；瞭望处"
+    },
+    {
+        "value": "outsider",
+        "US": "/ˌaʊtˈsaɪdər/",
+        "UK": "/ˌaʊtˈsaɪdə(r)/",
+        "translation": "n. 局外人， 外人；（组织、行业）外部的人，外来者；（比赛中）不大可能获胜的人（或动物）"
+    },
+    {
+        "value": "outskirts",
+        "US": "/ˈaʊtskɜːrts/",
+        "UK": "/ˈaʊtskɜːts/",
+        "translation": "n. 市郊，郊区"
+    },
+    {
+        "value": "outstanding",
+        "US": "/aʊtˈstændɪŋ/",
+        "UK": "/aʊtˈstændɪŋ/",
+        "translation": "adj. 杰出的，优秀的；显著的，突出的；未解决的，未完成的；（款项）未支付的，未结清的"
+    },
+    {
+        "value": "outsized",
+        "US": "/ˈaʊtsaɪzd/",
+        "UK": "/ˈaʊtsaɪzd/",
+        "translation": "adj. 特大的，特大号的"
+    },
+    {
+        "value": "oven",
+        "US": "/ˈʌv(ə)n/",
+        "UK": "/ˈʌv(ə)n/",
+        "translation": "n. 烤炉，烤箱；小熔炉，小窑；（纳粹集中营的）火化室"
+    },
+    {
+        "value": "palate",
+        "US": "/ˈpælət/",
+        "UK": "/ˈpælət/",
+        "translation": "n. 腭，上腭；味觉，品尝力；（葡萄酒、啤酒的）口味，香味；兴趣，趣味"
+    },
+    {
+        "value": "coast",
+        "US": "/koʊst/",
+        "UK": "/kəʊst/",
+        "translation": "n. 海岸，海滨；（车辆的）滑行<br>v. （人，车辆）滑行；毫不费力地做，（尤指）轻松获胜；不够努力，应付；沿海航行"
+    },
+    {
+        "value": "illustration",
+        "US": "/ˌɪləˈstreɪʃ(ə)n/",
+        "UK": "/ˌɪləˈstreɪʃ(ə)n/",
+        "translation": "n. 插图，图解；说明，例释；实例，示例"
+    },
+    {
+        "value": "workings",
+        "US": "/ˈwɜːrkɪŋz/",
+        "UK": "/ˈwɜːkɪŋz/",
+        "translation": "n. 作用；工作方式；操作"
+    },
+    {
+        "value": "overlook",
+        "US": "/ˌoʊvərˈlʊk/",
+        "UK": "/ˌəʊvəˈlʊk/",
+        "translation": "v. 忽视，忽略；（工作、职位、提拔等）不考虑（某人）；（对不良现象等）不予理会，视而不见；眺望，俯瞰；<古>监督；<罕>检查；<古>用邪恶的眼睛施魔法于<br>n.  <美> 居高临下的位置，从高处能看到的景色；眺望"
+    },
+    {
+        "value": "zoom",
+        "US": "/zuːm/",
+        "UK": "/zuːm/",
+        "translation": "v. 快速移动，迅速前往；（价格、数量、大小等）陡升，激增；（使镜头或摄影机）推近（或拉远）；留意到，特别关注<br>n. （车辆等）疾驰的声音；变焦镜头；进行变焦摄影<br>int. 用于表示突然的快速移动嗖，嗖地，霍地"
+    },
+    {
+        "value": "stagnate",
+        "US": "/ˈstæɡneɪt/",
+        "UK": "/stæɡˈneɪt/",
+        "translation": "v. 停滞，不发展，不进步；因不流动而变得污浊；使淤塞，使沉滞，使萧条"
+    },
+    {
+        "value": "trafficking",
+        "US": "/ˈtræfɪkɪŋ/",
+        "UK": "/ˈtræfɪkɪŋ/",
+        "translation": "n. 非法交易（尤指毒品买卖）<br>vi. 交易"
+    },
+    {
+        "value": "illusion",
+        "US": "/ɪˈluːʒ(ə)n/",
+        "UK": "/ɪˈluːʒ(ə)n/",
+        "translation": "n. 错觉，幻觉；幻想，错误的观念"
+    },
+    {
+        "value": "concoct",
+        "US": "/kənˈkɑːkt/",
+        "UK": "/kənˈkɒkt/",
+        "translation": "v. 编造，捏造；调制（食物或饮料）"
+    },
+    {
+        "value": "gratify",
+        "US": "/ˈɡrætɪfaɪ/",
+        "UK": "/ˈɡrætɪfaɪ/",
+        "translation": "vt. 使高兴，使满意；满足（愿望、需要等）"
+    },
+    {
+        "value": "seasoned",
+        "US": "/ˈsiːznd/",
+        "UK": "/ˈsiːz(ə)nd/",
+        "translation": "adj. 富有经验的；调好味的；风干的，晾干的（可加工使用 ）<br>v. 给……调味，加调料于；给……增添趣味；使（木头）风干"
+    },
+    {
+        "value": "campaigner",
+        "US": "/kæmˈpeɪnər/",
+        "UK": "/kæmˈpeɪnə(r)/",
+        "translation": "n. 竞选者；从军者；出征者；老兵"
+    },
+    {
+        "value": "veteran",
+        "US": "/ˈvetərən/",
+        "UK": "/ˈvetərən/",
+        "translation": "n. 老兵，退伍军人；经验丰富的人，老手<br>adj. 经验丰富的，老练的；<英>古老的"
+    },
+    {
+        "value": "understudy",
+        "US": "/ˈʌndərstʌdi/",
+        "UK": "/ˈʌndəstʌdi/",
+        "translation": "n. 候补演员；替工<br>vt. 练习代演；当……的替手；实地演习<br>vi. 学当替工"
+    },
+    {
+        "value": "aviator",
+        "US": "/ˈeɪvieɪtər/",
+        "UK": "/ˈeɪvieɪtə(r)/",
+        "translation": "n. 飞行员"
+    },
+    {
+        "value": "parade",
+        "US": "/pəˈreɪd/",
+        "UK": "/pəˈreɪd/",
+        "translation": "n. 游行；列队表演，展示；检阅，阅兵；阅兵场；一系列（人或事）；夸示，炫耀；&lt;英&gt;（用于街道名称中）商业街，公共广场；&lt;英&gt;（常指远离大街的）一小排店铺<br>v. 游行；（使）列队行进，接受检阅；招摇过市，大摇大摆；把（囚犯）示众；展示，展览；夸示，炫耀（财产、知识等）；（使）冒充，伪装"
+    },
+    {
+        "value": "merger",
+        "US": "/ˈmɜːrdʒər/",
+        "UK": "/ˈmɜːdʒə(r)/",
+        "translation": "n. （公司、组织的）合并；&lt;法律&gt;兼并，吸收"
+    },
+    {
+        "value": "impeccable",
+        "US": "/ɪmˈpekəb(ə)l/",
+        "UK": "/ɪmˈpekəb(ə)l/",
+        "translation": "adj. 无瑕疵的，没有缺点的；<罕>（神学）不会犯罪过的"
+    },
+    {
+        "value": "parliament",
+        "US": "/ˈpɑːrləmənt/",
+        "UK": "/ˈpɑːləmənt/",
+        "translation": "n. 议会，国会；英国议会（包括下议院和上议院）；一届议会（会期）"
+    },
+    {
+        "value": "particle",
+        "US": "/ˈpɑːrtɪk(ə)l/",
+        "UK": "/ˈpɑːtɪk(ə)l/",
+        "translation": "n. 微粒；极少量；粒子；质点；小品词"
+    },
+    {
+        "value": "deceive",
+        "US": "/dɪˈsiːv/",
+        "UK": "/dɪˈsiːv/",
+        "translation": "v. 欺骗，蒙骗；使误信，误导；对（丈夫、妻子或伴侣）不忠"
+    },
+    {
+        "value": "pebble",
+        "US": "/ˈpeb(ə)l/",
+        "UK": "/ˈpeb(ə)l/",
+        "translation": "n. 鹅卵石，砾石；水晶透镜<br>vt. 用卵石铺<br>adj. <非正式>（眼镜片）很厚的，凸起的"
+    },
+    {
+        "value": "deduce",
+        "US": "/dɪˈduːs/",
+        "UK": "/dɪˈdjuːs/",
+        "translation": "v. 推断，演绎；对……追本溯源"
+    },
+    {
+        "value": "pedestrian",
+        "US": "/pəˈdestriən/",
+        "UK": "/pəˈdestriən/",
+        "translation": "n. 步行者，行人<br>adj. 平淡无奇的，乏味的；行人的，行人使用的；徒步的"
+    },
+    {
+        "value": "delicate",
+        "US": "/ˈdelɪkət/",
+        "UK": "/ˈdelɪkət/",
+        "translation": "adj. 柔和的，清淡的；虚弱的，纤弱的；脆弱的，易碎的；小巧玲珑的，纤细的；微妙的，棘手的；精致的，精巧的；灵巧的，熟练的；（仪器）灵敏的<br>n. 精美的衣物"
+    },
+    {
+        "value": "pension",
+        "US": "/ˈpenʃən/",
+        "UK": "/ˈpenʃ(ə)n/",
+        "translation": "n. 养老金，退休金；（法国和其他一些欧洲国家的）廉价小旅店；<史>（给皇室宠臣、艺术家或学者以便他们能从事公益工作的）津贴，补助金<br>v. （尤指因年龄或疾病而）向（某人）支付养老金使其退休；（因陈旧或不再有用而）丢弃（某物）"
+    },
+    {
+        "value": "perceive",
+        "US": "/pərˈsiːv/",
+        "UK": "/pəˈsiːv/",
+        "translation": "vt. 认为，理解；察觉，注意到；意识到"
+    },
+    {
+        "value": "perception",
+        "US": "/pərˈsepʃ(ə)n/",
+        "UK": "/pəˈsepʃ(ə)n/",
+        "translation": "n. 看法，认识；感觉，感知；洞察力；<法律>（租金、农作物等的）收取，占有"
+    },
+    {
+        "value": "pessimism",
+        "US": "/ˈpesɪmɪzəm/",
+        "UK": "/ˈpesɪmɪzəm/",
+        "translation": "n. 悲观，悲观情绪；（哲）悲观主义"
+    },
+    {
+        "value": "phase",
+        "US": "/feɪz/",
+        "UK": "/feɪz/",
+        "translation": "n. （发展或变化的）阶段，时期；做出某种行为的短时期；（动物生活周期或年周期的）阶段，期；（月亮的）位相，盈亏；同步，协调；（化）相；（动）（由遗传或季节引起的）动物颜色变化（期）；（物理）相位，相角；（线圈的）匝，（多相电机或电路的）连接；（语言学）（系统语法用语）相（指链接动词与后续动词的关系）；相结构（含有链接动词和后续动词的结构）<br>v. 分阶段进行；（物理）使相位同步，使定相"
+    },
+    {
+        "value": "dialect",
+        "US": "/ˈdaɪəlekt/",
+        "UK": "/ˈdaɪəlekt/",
+        "translation": "n. 方言，土话"
+    },
+    {
+        "value": "physiology",
+        "US": "/ˌfɪziˈɑːlədʒi/",
+        "UK": "/ˌfɪziˈɒlədʒi/",
+        "translation": "n. 生理学；生理机能"
+    },
+    {
+        "value": "pitch",
+        "US": "/pɪtʃ/",
+        "UK": "/pɪtʃ/",
+        "translation": "n. <英>体育场地，球场；程度，强度；音准，音高；推销用语；投球；沥青，柏油；（船或飞机的）颠簸；倾斜度，高度；<英>摊位，（街头艺人的）表演场所；（高尔夫）下旋高球；<英>露营地；（技）螺距，节距<br>v. 扔，抛，掷；（棒球中）投（球）；击地，（使球）定点落地；重跌，坠落；（船或飞机）颠簸；把……定于某水平；使（产品）针对，面向；推销；为……定音高；向下倾斜；扎，搭建；（高尔夫）击下旋高球；用石头铺（路）；（酿酒用语）给（麦芽汁）加酵母；<古或西印度>盖上沥青，涂上沥青"
+    },
+    {
+        "value": "plough",
+        "US": "/plaʊ/",
+        "UK": "/plaʊ/",
+        "translation": "v. 耕，犁；（用或仿佛用犁）划出（沟或线）；（用犁）挖出；（轮船，木船）穿过（水域），破浪前进；奋力前进；（不顾困难或要求停止的警告而）继续坚持；&lt;美&gt;（用扫雪机）从（道路）清除积雪；（尤指车辆）猛撞<br>n. 犁；犁过的地，耕地；&lt;美&gt;雪犁，扫雪机；北斗七星；北斗七星"
+    },
+    {
+        "value": "disposable",
+        "US": "/dɪˈspoʊzəb(ə)l/",
+        "UK": "/dɪˈspəʊzəb(ə)l/",
+        "translation": "adj.  一次性的，用完即丢弃的；可支配的，可自由使用的；（人，观点）可有可无的，可轻易放弃的<br>n. 一次性用品"
+    },
+    {
+        "value": "panorama",
+        "US": "/ˌpænəˈræmə/",
+        "UK": "/ˌpænəˈrɑːmə/",
+        "translation": "n. （陆地或海洋的）全景，全貌；全景画，全景摄影；（某一主题或系列事件的）概论，综述；万花筒，各种人物，多样事物"
+    },
+    {
+        "value": "porridge",
+        "US": "/ˈpɔːrɪdʒ/",
+        "UK": "/ˈpɒrɪdʒ/",
+        "translation": "n. <英>燕麦粥，麦片粥；<英，非正式>关押期，监禁期"
+    },
+    {
+        "value": "distinct",
+        "US": "/dɪˈstɪŋkt/",
+        "UK": "/dɪˈstɪŋkt/",
+        "translation": "adj. 不同的，有区别的；清楚的，明显的；确切的"
+    },
+    {
+        "value": "possession",
+        "US": "/pəˈzeʃn/",
+        "UK": "/pəˈzeʃ(ə)n/",
+        "translation": "n. <正式> 拥有，持有；个人财产，所有物；持有违禁物，私藏毒品（或武器）；（对球的）控制，球权；进攻；领地，殖民地；鬼魂附体，着魔；（观点或情感的）支配，控制"
+    },
+    {
+        "value": "peak",
+        "US": "/piːk/",
+        "UK": "/piːk/",
+        "translation": "n. 巅峰，顶点；山顶；有尖峰的山；尖端，尖顶；帽檐，帽舌；极值，峰值；（艏或艉的）尖舱；斜桁外端，（帆的）后上角<br>v. 达到高峰，达到最大值；&lt;古&gt;消瘦，衰弱，精神萎靡<br>adj. 巅峰状态的，最高的；高峰时期的"
+    },
+    {
+        "value": "prairie",
+        "US": "/ˈpreri/",
+        "UK": "/ˈpreəri/",
+        "translation": "n. （北美的）大草原；蒸气火车头"
+    },
+    {
+        "value": "pregnant",
+        "US": "/ˈpreɡnənt/",
+        "UK": "/ˈpreɡnənt/",
+        "translation": "adj. 怀孕的，妊娠的；意味深长的，意义重大的"
+    },
+    {
+        "value": "presenter",
+        "US": "/prɪˈzentər/",
+        "UK": "/prɪˈzentə(r)/",
+        "translation": "n. （电视或广播节目的）主持人，主播；（仪式上的）颁奖人；演讲人，发言人；提出者；推荐者；赠送者；任命者"
+    },
+    {
+        "value": "priest",
+        "US": "/priːst/",
+        "UK": "/priːst/",
+        "translation": "n. 牧师，神职人员；木渔槌（垂钓时用以打死已上钩的鱼）<br>v. <正式>任命……为司铎（或祭司）"
+    },
+    {
+        "value": "elimination",
+        "US": "/ɪˌlɪmɪˈneɪʃn/",
+        "UK": "/ɪˌlɪmɪˈneɪʃn/",
+        "translation": "n. 消除，排除；淘汰；消灭，铲除；排泄"
+    },
+    {
+        "value": "moisture",
+        "US": "/ˈmɔɪstʃər/",
+        "UK": "/ˈmɔɪstʃə(r)/",
+        "translation": "n. 潮气，水分"
+    },
+    {
+        "value": "procedure",
+        "US": "/prəˈsiːdʒər/",
+        "UK": "/prəˈsiːdʒə(r)/",
+        "translation": "n. 手续，步骤；（商业、法律或政治上的）程序；外科手术；（电脑的）应用程式"
+    },
+    {
+        "value": "progression",
+        "US": "/prəˈɡreʃn/",
+        "UK": "/prəˈɡreʃ(ə)n/",
+        "translation": "n. 发展，前进；一系列；（从一音或和弦进至另一音或和弦的）进行；占卜术"
+    },
+    {
+        "value": "prohibition",
+        "US": "/ˌproʊɪˈbɪʃ(ə)n/",
+        "UK": "/ˌprəʊɪˈbɪʃ(ə)n/",
+        "translation": "n. 禁令，禁律；禁止；<英>（上级法院禁止下级法院对无权受理案件审理的）诉讼中止令"
+    },
+    {
+        "value": "prominent",
+        "US": "/ˈprɑːmɪnənt/",
+        "UK": "/ˈprɒmɪnənt/",
+        "translation": "adj. 重要的，著名的；显眼的，突出的；突起的，高耸的<br>n. 舟蛾"
+    },
+    {
+        "value": "naughty",
+        "US": "/ˈnɔːti/",
+        "UK": "/ˈnɔːti/",
+        "translation": "adj. 顽皮的，淘气的；不妥当的，（成人）没规矩的；下流的，淫秽的；<古>邪恶的"
+    },
+    {
+        "value": "prospect",
+        "US": "/ˈprɑːspekt/",
+        "UK": "/ˈprɒspekt/",
+        "translation": "n. 可能性，希望；预期，展望；（尤指事业的）成功机会，前景；有望成功的人，有前途的人；可能的顾客，潜在的主顾；&lt;正式&gt;（尤指从高处看到的）景象，景色；潜在矿藏或矿床<br>v. 勘探，勘察；寻找（商业机会）"
+    },
+    {
+        "value": "punctual",
+        "US": "/ˈpʌŋktʃuəl/",
+        "UK": "/ˈpʌŋktʃuəl/",
+        "translation": "adj. 准时的，守时的；<旧>精确的；（语法）（动作）瞬息性的"
+    },
+    {
+        "value": "punctuation",
+        "US": "/ˌpʌŋktʃuˈeɪʃ(ə)n/",
+        "UK": "/ˌpʌŋktʃuˈeɪʃn/",
+        "translation": "n. 标点符号，标点符号用法；（点断性平衡说提出的）新物种迅速（或突然）的形成"
+    },
+    {
+        "value": "pursue",
+        "US": "/pərˈsuː/",
+        "UK": "/pəˈsjuː/",
+        "translation": "v. 追求，致力于，执行；继续探讨（或追究、从事）；追逐，跟踪，追赶；沿着……前行；追求（某人）；力劝（某人）接受聘用"
+    },
+    {
+        "value": "patriotism",
+        "US": "/ˈpeɪtriətɪzəm/",
+        "UK": "/ˈpætriətɪzəm; ˈpeɪtriətɪzəm/",
+        "translation": "n. 爱国主义，爱国精神"
+    },
+    {
+        "value": "implausible",
+        "US": "/ɪmˈplɔːzəb(ə)l/",
+        "UK": "/ɪmˈplɔːzəb(ə)l/",
+        "translation": "adj. 难以置信的，不像真实的"
+    },
+    {
+        "value": "cluster",
+        "US": "/ˈklʌstər/",
+        "UK": "/ˈklʌstə(r)/",
+        "translation": "n. 组，簇；星团；一连串同类事件；（聚集在同一地方的）一群人；（计算机磁盘上的）丛集，群集；辅音群，辅音连缀<br>v. 群聚，聚集；（数据点）具近似数值"
+    },
+    {
+        "value": "frame",
+        "US": "/freɪm/",
+        "UK": "/freɪm/",
+        "translation": "n. 框架，边框；（家具、建筑物、车辆等的）构架，支架；体格，骨架；眼镜框；（系统、概念或文章的）基本框架；镜头，画面；（连环漫画中的）一幅画；（网页的）一个区域；（斯诺克或保龄球的）一局；（玻璃或塑料的箱式）轻便温床；（纺织、编结或刺绣用的）框；替换框架；（计算机或通信）帧，影格\nv. 装框架；勾勒出；围绕；&lt;非正式&gt;陷害，诬陷；制定，拟订；（措词谨慎地）表达\nadj. 有木架的"
+    },
+    {
+        "value": "sympathize",
+        "US": "/ˈsɪmpəθaɪz/",
+        "UK": "/ˈsɪmpəθaɪz/",
+        "translation": "v. 同情，体谅；赞同，支持"
+    },
+    {
+        "value": "fiance",
+        "US": "/ˌfiːɑːnˈseɪ/",
+        "UK": "/fiˈɒnseɪ; fiˈɑːnseɪ/",
+        "translation": "n. 未婚夫"
+    },
+    {
+        "value": "narrowly",
+        "US": "/ˈnæroʊli/",
+        "UK": "/ˈnærəʊli/",
+        "translation": "adv. 刚好，勉强地；狭隘地，受限地；仔细地，严密地"
+    },
+    {
+        "value": "confide",
+        "US": "/kənˈfaɪd/",
+        "UK": "/kənˈfaɪd/",
+        "translation": "v. 托付，委托；吐露，倾诉"
+    },
+    {
+        "value": "industrious",
+        "US": "/ɪnˈdʌstriəs/",
+        "UK": "/ɪnˈdʌstriəs/",
+        "translation": "adj. 勤劳的，勤奋的"
+    },
+    {
+        "value": "industrial",
+        "US": "/ɪnˈdʌstriəl/",
+        "UK": "/ɪnˈdʌstriəl/",
+        "translation": "adj. 工业的，产业的；有很多产业的，工业发达的；工业用的，用于工业的；（与）工业摇滚（有关）的；因勤劳而得到的<br>n. 从事工业的公司；工业股票；工业工人"
+    },
+    {
+        "value": "disinterested",
+        "US": "/dɪsˈɪntrəstɪd/",
+        "UK": "/dɪsˈɪntrəstɪd/",
+        "translation": "adj. 不偏不倚的，公正无私的，廉洁的<br>v. 使不再有利害关系"
+    },
+    {
+        "value": "comprehensive",
+        "US": "/ˌkɑːmprɪˈhensɪv/",
+        "UK": "/ˌkɒmprɪˈhensɪv/",
+        "translation": "adj. 综合性的，全面的；有理解力的<br>n. 综合中学；专业综合测验"
+    },
+    {
+        "value": "comprehensible",
+        "US": "/ˌkɑːmprɪˈhensəb(ə)l/",
+        "UK": "/ˌkɒmprɪˈhensəb(ə)l/",
+        "translation": "adj. 可理解的"
+    },
+    {
+        "value": "complement",
+        "US": "/ˈkɑːmplɪment/",
+        "UK": "/ˈkɒmplɪment/",
+        "translation": "v. 补充，补足<br>n. 补足物，衬托物；足数，足额；补语；余角；补体，防御素"
+    },
+    {
+        "value": "rag",
+        "US": "/ræɡ/",
+        "UK": "/ræɡ/",
+        "translation": "n. 抹布，破布； 破衣烂衫；&lt;非正式&gt;服装；&lt;非正式&gt;质量低劣的报纸，小报；雷格泰姆乐曲；&lt;英&gt;（学生每年组织的）慈善募捐活动；石板瓦；&lt;英&gt;坚硬石灰岩，硬质岩石<br>v. &lt;英，旧，非正式&gt; 嘲笑，戏弄；责骂，呵斥；用碎布将（油漆）擦在表面上；（冰球）（为掌握比赛节奏）运球，带球；变破碎"
+    },
+    {
+        "value": "tony",
+        "US": "/ˈtoʊni/",
+        "UK": "/ˈtəʊni/",
+        "translation": "adj. （非正式，主要用于美国英语）豪华的，时髦的，上等的"
+    },
+    {
+        "value": "magnanimous",
+        "US": "/mæɡˈnænɪməs/",
+        "UK": "/mæɡˈnænɪməs/",
+        "translation": "adj. 宽宏大量的，有雅量的，宽大的；宽厚高尚的，胸怀宽广的"
+    },
+    {
+        "value": "awkward",
+        "US": "/ˈɔːkwərd/",
+        "UK": "/ˈɔːkwəd/",
+        "translation": "adj. 令人尴尬的，使人难堪的；难对付的，难处理的；局促不安的；不方便的；笨拙的，不雅观的；不舒适的"
+    },
+    {
+        "value": "implicate",
+        "US": "/ˈɪmplɪkeɪt/",
+        "UK": "/ˈɪmplɪkeɪt/",
+        "translation": "v. 使牵连其中，涉及；表明（或意指）……是起因；暗指，暗示<br>n. （主逻）蕴（涵）之物"
+    },
+    {
+        "value": "resolute",
+        "US": "/ˈrezəluːt/",
+        "UK": "/ˈrezəluːt/",
+        "translation": "adj. 坚决的，果断的"
+    },
+    {
+        "value": "rat",
+        "US": "/ræt/",
+        "UK": "/ræt/",
+        "translation": "n. 老鼠；<非正式>卑鄙小人（尤指欺诈或变节者）；<非正式> 常客，常待在某处的人；<美>（为头发定型做出饱满效果的）女用发垫<br>v. 捕（捉）老鼠，灭鼠；<非正式> 告发，告密；<非正式> 背信弃义，食言；<美>用发垫给（头发）定型<br>int.  <非正式>胡说，去你的（用以表示轻度烦恼，恼怒）"
+    },
+    {
+        "value": "tone",
+        "US": "/toʊn/",
+        "UK": "/təʊn/",
+        "translation": "n. 语气，腔调，口吻；气氛，基调，风格；（尤指乐器或电子音响设备的）音质，音色；色调，明暗；强健状况，（尤指肌肉的）紧实度；（电话或应答机等发出的）声音信号；（音乐）全音，音程；（说话的）声调，音调；（生理）神经纤维的正常活动状态<br>v. 使强健，使结实；与……协调，与……相配；（用化学溶液使黑白照片在润色时）变色；用某种调子说"
+    },
+    {
+        "value": "romanticism",
+        "US": "/roʊˈmæntɪsɪzəm/",
+        "UK": "/rəʊˈmæntɪsɪzəm/",
+        "translation": "n. 浪漫主义（指18—19世纪欧洲文学、艺术和音乐中的思潮，强调个性、情感和想象）；浪漫精神（指浪漫而不现实、理想化的态度、观念和情感）；浪漫色彩，浪漫性（指令人兴奋、神秘或富有魅力的特质）"
+    },
+    {
+        "value": "trustworthy",
+        "US": "/ˈtrʌstwɜːrði/",
+        "UK": "/ˈtrʌstwɜːði/",
+        "translation": "adj. 值得信赖的，可信的"
+    },
+    {
+        "value": "tongue",
+        "US": "/tʌŋ/",
+        "UK": "/tʌŋ/",
+        "translation": "n. 舌，舌头；（供食用的动物的）舌头，口条；语言，方言；说话方式，写作风格；鞋舌；舌状物；（延伸入湖、海等中的）长条状陆地，舌状陆地；榫舌，雄榫；（脊椎动物的）齿舌；（昆虫的）喙；钟锤；（乐器、风琴管的）簧片；搭扣销<br>v. 用运舌法吹奏（管乐器）；用舌头触碰，舔；说话；<旧>斥责"
+    },
+    {
+        "value": "realism",
+        "US": "/ˈriːəlɪzəm/",
+        "UK": "/ˈriːəlɪzəm/",
+        "translation": "n. 务实作风，实事求是；现实性，逼真；（艺术、文学中的）现实主义；（科学或哲学的）实在主义，唯实论；权力实用主义；现实主义法学"
+    },
+    {
+        "value": "rational",
+        "US": "/ˈræʃ(ə)nəl/",
+        "UK": "/ˈræʃ(ə)nəl/",
+        "translation": "adj. （想法、决定等）合理的，基于理性的；（人）理性的，理智的；富有理性的；（数）有理的，有理数的<br>n. 有理数"
+    },
+    {
+        "value": "adverbial",
+        "US": "/ædˈvɜːrbiəl/",
+        "UK": "/ædˈvɜːbiəl/",
+        "translation": "adj. 副词的，状语的<br>n.  状语"
+    },
+    {
+        "value": "stratagem",
+        "US": "/ˈstrætədʒəm/",
+        "UK": "/ˈstrætədʒəm/",
+        "translation": "n. <正式>计谋，诡计；策略，招数"
+    },
+    {
+        "value": "razor",
+        "US": "/ˈreɪzər/",
+        "UK": "/ˈreɪzə(r)/",
+        "translation": "n. 剃（须）刀，刮胡刀；处于险境，境况岌岌可危<br>v. 用剃刀剃，用刮胡刀刮"
+    },
+    {
+        "value": "rose",
+        "US": "/roʊz/",
+        "UK": "/rəʊz/",
+        "translation": "n. 玫瑰，蔷薇；玫瑰形物，玫瑰花饰，玫瑰花形纹章（尤指英国国徽）；玫瑰色，玫瑰红；红润的肤色；安乐的境地，有利的环境，轻易成功；（水管或洒水壶的）莲蓬式喷嘴；玫瑰红葡萄酒；罗经花，向位圈，方位刻度图<br>v. <文>使成玫瑰色，使变红<br>v. （数字、数量、价值）增加，（质量）提高；升起，达到较高水平（或位置）；（尤指从坐姿）起身，站起"
+    },
+    {
+        "value": "peculiarly",
+        "US": "/pɪˈkjuːliərli/",
+        "UK": "/pɪˈkjuːliəli/",
+        "translation": "adv. 特别，尤其，格外；古怪地，奇怪地，异常地；独特地，特有地"
+    },
+    {
+        "value": "recall",
+        "US": "/rɪˈkɔːl/",
+        "UK": "/rɪˈkɔːl/",
+        "translation": "v. 记起，回想起；使想起，使想到；召回，叫回（某人）；召回（运动员），使归队； 收回（有问题的产品）；检索，调用（计算机储存的数据）；<美> 罢免；使重新集中注意力；<古> 撤销，废止（行动，决定）<br>n. 记忆力，记性；召回；（因产品有问题的）收回；（将运动员的）召回归队；<美>（请愿后经投票对政府官员的）罢免；回索率，检索率；撤销"
+    },
+    {
+        "value": "capital",
+        "US": "/ˈkæpɪt(ə)l/",
+        "UK": "/ˈkæpɪt(ə)l/",
+        "translation": "n. 资本，资金；资本家，资方；首都，首府，省会；活动（或生产）中心；大写字母；柱顶，柱头<br>adj. 可处死刑的；大写的；首府的，省会的；&lt;旧&gt;顶好的，极好的"
+    },
+    {
+        "value": "quirk",
+        "US": "/kwɜːrk/",
+        "UK": "/kwɜːk/",
+        "translation": "n. 怪癖， 怪异的性格（或行为）；（偶然发生的）怪事，奇事；急转，急弯；（建筑）狭凹槽，深槽；&lt;美&gt;借口<br>v. （人的嘴巴或眉毛）突然翘起，扭曲"
+    },
+    {
+        "value": "receipt",
+        "US": "/rɪˈsiːt/",
+        "UK": "/rɪˈsiːt/",
+        "translation": "n. 发票，收据；<正式>收到，接收；(企业、银行、政府等）收到的款项，收入<br>v. 在（账单）上注明收讫字样"
+    },
+    {
+        "value": "outlive",
+        "US": "/ˌaʊtˈlɪv/",
+        "UK": "/ˌaʊtˈlɪv/",
+        "translation": "v. 比……活得长，比……活得久；比……经久；<古>经受（某一经历）"
+    },
+    {
+        "value": "insect",
+        "US": "/ˈɪnsekt/",
+        "UK": "/ˈɪnsekt/",
+        "translation": "n. 昆虫；类似昆虫的小动物（如蜘蛛）；卑鄙的人"
+    },
+    {
+        "value": "rhetoric",
+        "US": "/ˈretərɪk/",
+        "UK": "/ˈretərɪk/",
+        "translation": "n. 花言巧语，浮夸之词；修辞，修辞学"
+    },
+    {
+        "value": "symmetry",
+        "US": "/ˈsɪmətri/",
+        "UK": "/ˈsɪmətri/",
+        "translation": "n. 对称（性）；相似，相等；（物理，数） 对称"
+    },
+    {
+        "value": "criticism",
+        "US": "/ˈkrɪtɪsɪzəm/",
+        "UK": "/ˈkrɪtɪsɪzəm/",
+        "translation": "n. 批评，批判；意见；评论，评价；（对文学作品和历史文献的）考证"
+    },
+    {
+        "value": "obnoxiously",
+        "US": "/əbˈnɑːkʃəsli/",
+        "UK": "/əbˈnɒkʃəsli/",
+        "translation": "adv. 可憎地，惹人讨厌地"
+    },
+    {
+        "value": "trait",
+        "US": "/treɪt/",
+        "UK": "/treɪt/",
+        "translation": "n. （人的个性的）特征，特点；遗传特征；一点，少许"
+    },
+    {
+        "value": "terrifying",
+        "US": "/ˈterɪfaɪɪŋ/",
+        "UK": "/ˈterɪfaɪɪŋ/",
+        "translation": "adj. 吓人的，令人害怕的<br>v. 使害怕，使恐惧"
+    },
+    {
+        "value": "glide",
+        "US": "/ɡlaɪd/",
+        "UK": "/ɡlaɪd/",
+        "translation": "v. 滑行，滑动；滑翔；做事顺利；悄悄地走，流逝<br>n. 滑动，滑行；（滑翔机或无动力飞机的）飞行，滑翔；滑音，延音；（尤指向腿侧的）斜击"
+    },
+    {
+        "value": "trench",
+        "US": "/trentʃ/",
+        "UK": "/trentʃ/",
+        "translation": "n. 壕沟，沟渠；海沟，海底沟；战壕，堑壕；堑壕阵地；一战时期法国北部和比利时的堑壕战；战壕雨衣<br>v. 在（地）上开沟，在……上挖战壕；翻（田地，花园）的地"
+    },
+    {
+        "value": "terrified",
+        "US": "/ˈterəfaɪd/",
+        "UK": "/ˈterɪfaɪd/",
+        "translation": "adj. 非常害怕的，极度惊恐的<br>v. 使害怕，使恐惧"
+    },
+    {
+        "value": "reduction",
+        "US": "/rɪˈdʌkʃ(ə)n/",
+        "UK": "/rɪˈdʌkʃ(ə)n/",
+        "translation": "n. 减小，降低；减价，折扣；（照片、地图、图片等的）缩图，缩版；归纳，简化；（数学）归约，约化；染色体减半；简编曲（管弦乐改编的钢琴曲或小乐队演奏曲）；浓汤，浓汁；脱臼（或断骨）复位；（化学）还原，被还原；（语音）弱化"
+    },
+    {
+        "value": "tribe",
+        "US": "/traɪb/",
+        "UK": "/traɪb/",
+        "translation": "n. 部落，宗族；一大群人，一大伙人；大家庭；<非正式>许多人；（动物或植物的）群，族；（古罗马）行政部门；<贬>组织严密的社会（或政治）群体"
+    },
+    {
+        "value": "tightly",
+        "US": "/ˈtaɪtli/",
+        "UK": "/ˈtaɪtli/",
+        "translation": "adv. 紧紧地，牢固地"
+    },
+    {
+        "value": "reef",
+        "US": "/riːf/",
+        "UK": "/riːf/",
+        "translation": "n. 礁，暗礁，礁脉；（尤指含金的）矿脉；缩帆部，帆的可收缩部<br>v. 收帆，卷起缩帆部；缩短，收进（中桅，船首斜桁）"
+    },
+    {
+        "value": "trick",
+        "US": "/trɪk/",
+        "UK": "/trɪk/",
+        "translation": "n. 花招，诡计，骗局；窍门，技巧；戏法，把戏；恶作剧，戏弄；引起错觉（或记忆紊乱）的事物；（纸牌的）一圈，一墩；（特别的）习惯，方式；舵手的一班（一般为二或四小时）；&lt;非正式&gt;嫖客<br>v. 欺骗，哄骗；（纹章）（用由字母、符号标明的颜色）给（盾形徽章）勾勒轮廓<br>adj. 骗人的，使人产生错觉的；&lt;美&gt;（身体部位）虚弱的，有毛病的；巧妙的，取乐的"
+    },
+    {
+        "value": "suffocated",
+        "US": "/ˈsʌfəkeɪtɪd/",
+        "UK": "/ˈsʌfəkeɪtɪd/",
+        "translation": "adj. 感到压抑的；感到束缚的<br>v. （使）窒息，闷死，窒息而死；使呼吸困难，感到憋闷；使受压制，使感到被压抑，阻碍"
+    },
+    {
+        "value": "referee",
+        "US": "/ˌrefəˈriː/",
+        "UK": "/ˌrefəˈriː/",
+        "translation": "n. （比赛的）裁判员；仲裁员，调解人；<英>（求职等时的）证明人，介绍人；（刊登前鉴定文章的）审阅人，（拨款前鉴定研究计划的）鉴定专家<br>v. （给……）当裁判；（给……）做仲裁员，（给……）做调解人；审阅，鉴定（专业性强的文章）"
+    },
+    {
+        "value": "confiscate",
+        "US": "/ˈkɑːnfɪskeɪt/",
+        "UK": "/ˈkɒnfɪskeɪt/",
+        "translation": "v. 没收，查抄（某人的财产）；充公，罚没（某物，尤指土地）<br>adj. 被没收的"
+    },
+    {
+        "value": "reflective",
+        "US": "/rɪˈflektɪv/",
+        "UK": "/rɪˈflektɪv/",
+        "translation": "adj. 反射的，反光的 ；沉思的，深思的；体现……的，反映……的"
+    },
+    {
+        "value": "tricky",
+        "US": "/ˈtrɪki/",
+        "UK": "/ˈtrɪki/",
+        "translation": "adj. 难对付的，棘手的；狡猾的，诡计多端的"
+    },
+    {
+        "value": "abolish",
+        "US": "/əˈbɑːlɪʃ/",
+        "UK": "/əˈbɒlɪʃ/",
+        "translation": "v. 废除，废止，取消"
+    },
+    {
+        "value": "regulate",
+        "US": "/ˈreɡjuleɪt/",
+        "UK": "/ˈreɡjuleɪt/",
+        "translation": "v. （用规则条例）控制，管理；调节，调整；监控，监管；校准，对准（时钟或其他仪器）"
+    },
+    {
+        "value": "truck",
+        "US": "/trʌk/",
+        "UK": "/trʌk/",
+        "translation": "n. 卡车，载重汽车；<英>（铁路）运货车皮，敞篷货运火车；（运送东西的）手推车，手拉车；火车转向架；（滑板的）轮转轴；（桅杆或旗杆顶端有孔可穿升降索的）桅冠，旗杆冠；<古>交易，买卖；<美>商品菜园产物（尤指蔬菜）<br>v. <美>用卡车装运；<美>驾驶卡车；轻松前进，平稳前进；<古>交换，交易"
+    },
+    {
+        "value": "criteria",
+        "US": "/kraɪˈtɪriə/",
+        "UK": "/kraɪˈtɪəriə/",
+        "translation": "n. （评判或做决定的）标准，准则，尺度"
+    },
+    {
+        "value": "majesty",
+        "US": "/ˈmædʒəsti/",
+        "UK": "/ˈmædʒəsti/",
+        "translation": "n. 雄伟，壮丽，威严；陛下（对国王或女王的称呼）；君权，王权"
+    },
+    {
+        "value": "spine",
+        "US": "/spaɪn/",
+        "UK": "/spaɪn/",
+        "translation": "n. 脊髓，脊柱；书脊；（动植物的）刺，刺毛；中心力量，中流砥柱；骨气，勇气；直线型薪酬级别制；（地质）火山栓，熔岩塔"
+    },
+    {
+        "value": "abrupt",
+        "US": "/əˈbrʌpt/",
+        "UK": "/əˈbrʌpt/",
+        "translation": "adj. 突然的，意外的；粗鲁的，唐突的，（言语）生硬的；险峻的，陡峭的；（讲话或写作风格）不流畅的，不连贯的"
+    },
+    {
+        "value": "glimpse",
+        "US": "/ɡlɪmps/",
+        "UK": "/ɡlɪmps/",
+        "translation": "n. 一瞥，一看；短暂的感受，短暂的体验<br>v. 瞥见；开始理解；<古>闪烁，隐约出现"
+    },
+    {
+        "value": "novel",
+        "US": "/ˈnɑːv(ə)l/",
+        "UK": "/ˈnɒv(ə)l/",
+        "translation": "n. （长篇）小说<br>adj. 新颖的，珍奇的"
+    },
+    {
+        "value": "reluctant",
+        "US": "/rɪˈlʌktənt/",
+        "UK": "/rɪˈlʌktənt/",
+        "translation": "adj. 勉强的，不情愿的"
+    },
+    {
+        "value": "gallop",
+        "US": "/ˈɡæləp/",
+        "UK": "/ˈɡæləp/",
+        "translation": "v. （马）飞跑，飞奔；骑马奔驰，使（马）疾驰；飞速移动，极快发展；急急忙忙地说；迅速运输<br>n. （马的）飞跑，疾驰；骑马奔驰；极快的速度；<英>训练马的跑道，驰马场"
+    },
+    {
+        "value": "stagger",
+        "US": "/ˈstæɡər/",
+        "UK": "/ˈstæɡə(r)/",
+        "translation": "v. 摇摇晃晃地走，蹒跚；使震惊，使大吃一惊；使交错，使错开<br>n. 踉跄，蹒跚；使（物体，物体的组成部分）交错排列；赛跑选手起跑时的梯形排列<br>adj. 交错的，错开的"
+    },
+    {
+        "value": "laser",
+        "US": "/ˈleɪzər/",
+        "UK": "/ˈleɪzə(r)/",
+        "translation": "n. 激光（器）<br>v. 使用激光器"
+    },
+    {
+        "value": "representative",
+        "US": "/ˌreprɪˈzentətɪv/",
+        "UK": "/ˌreprɪˈzentətɪv/",
+        "translation": "adj. 典型的，有代表性的；代表各类人（或事物）的；由代表组成的，代议制的；表现的，体现的；（艺术）具象派的；（哲） （与）表象（有关）的<br>n. 代表，代理人；代表他人者；销售代表，销售代理；典型人物，有代表性的事物；（美国）众议院议员；（类或群的）样本，代表物"
+    },
+    {
+        "value": "sprint",
+        "US": "/sprɪnt/",
+        "UK": "/sprɪnt/",
+        "translation": "v. 冲刺，短跑<br>n. 冲刺，快跑；短跑比赛，短距离速度竞赛；（速度、能量或活动的）突然爆发"
+    },
+    {
+        "value": "liberalisation",
+        "US": "/ˌlɪbərəlɪˈzeʃən/",
+        "UK": "/ˌlɪbərəlaɪˈzeɪʃən/",
+        "translation": "n. 自由化，开放，放宽限制"
+    },
+    {
+        "value": "workaday",
+        "US": "/ˈwɜːrkədeɪ/",
+        "UK": "/ˈwɜːkədeɪ/",
+        "translation": "adj. 日常的，普通的，平凡的；工作日的，适合工作日的"
+    },
+    {
+        "value": "liberalness",
+        "US": "/ˈlɪbərəlnəs/",
+        "UK": "/ˈlɪbərəlnəs/",
+        "translation": "n. 公正；宽宏大量；慷慨"
+    },
+    {
+        "value": "mighty",
+        "US": "/ˈmaɪti/",
+        "UK": "/ˈmaɪti/",
+        "translation": "adj. 强大的，巨大的；（动作）用力的，需用力的<br>adv. 很，非常，十分"
+    },
+    {
+        "value": "turmoil",
+        "US": "/ˈtɜːrmɔɪl/",
+        "UK": "/ˈtɜːmɔɪl/",
+        "translation": "n. 混乱，骚动<br>v. 扰乱，使不安"
+    },
+    {
+        "value": "expose",
+        "US": "/ɪkˈspoʊz/",
+        "UK": "/ɪkˈspəʊz/",
+        "translation": "v. 暴露，使显露；使面临，使遭受（危险或不快）；揭露，揭发；接触，体验；露出，显露（感情）；使（胶卷）曝光；弃（婴孩）于户外让其死去<br>n. 揭露，曝光"
+    },
+    {
+        "value": "backboard",
+        "US": "/ˈbækbɔːrd/",
+        "UK": "/ˈbækbɔːd/",
+        "translation": "n. （篮球）篮板；背板，后挡板；（医学）急救背板，脊柱固定板"
+    },
+    {
+        "value": "counter",
+        "US": "/ˈkaʊntər/",
+        "UK": "/ˈkaʊntə(r)/",
+        "translation": "n. 柜台；对立面；计数器，计算器；（棋盘游戏的）筹码；记分冰壶<br>v. 反驳，驳斥；抵制，抵消；（拳击）还击；逆向移动<br>adv. 相反地，对立地；逆向地<br>adj. 反面的，对立的"
+    },
+    {
+        "value": "residence",
+        "US": "/ˈrezɪdəns/",
+        "UK": "/ˈrezɪdəns/",
+        "translation": "n. 住宅，住所；居住，定居；（在某国的）居住权，居留许可；（大学的）学生宿舍楼"
+    },
+    {
+        "value": "trolley",
+        "US": "/ˈtrɑːli/",
+        "UK": "/ˈtrɒli/",
+        "translation": "n. <英>手推车；<英>（送食品饮料的）小车，台车；<美>有轨电车；无轨电车；电车触轮（与架空电线接触以驱动电车）；有轨缆车，架空缆车；<英>（医院用的）担架车<br>v. 乘电车；用手推车运"
+    },
+    {
+        "value": "affection",
+        "US": "/əˈfekʃ(ə)n/",
+        "UK": "/əˈfekʃn/",
+        "translation": "n. 喜爱，关爱；爱恋，爱慕之情；精神状况，感情；疾患，病；影响"
+    },
+    {
+        "value": "prepose",
+        "US": "/priːˈpoʊz/",
+        "UK": "/priːˈpəʊz/",
+        "translation": "v. 把……放在前面，将（冠词等）前置"
+    },
+    {
+        "value": "animation",
+        "US": "/ˌænɪˈmeɪʃ(ə)n/",
+        "UK": "/ˌænɪˈmeɪʃ(ə)n/",
+        "translation": "n. 活力，生气，热烈；动画片，动画游戏；动画制作"
+    },
+    {
+        "value": "vain",
+        "US": "/veɪn/",
+        "UK": "/veɪn/",
+        "translation": "adj. 虚荣的，自负的；徒劳的"
+    },
+    {
+        "value": "repose",
+        "US": "/rɪˈpoʊz/",
+        "UK": "/rɪˈpəʊz/",
+        "translation": "n. 休息；睡眠；静止；宁静，平静，安详；安息，长眠<br>vt. 使休息；安放；把（信任、信心、希望等）寄托于<br>vi. 休息；躺卧；静卧；长眠，安息；坐落；依靠，基于，建立于"
+    },
+    {
+        "value": "ward",
+        "US": "/wɔːrd/",
+        "UK": "/wɔːd/",
+        "translation": "n. 病房，病室；（城镇或村庄的）区，选区；被监护人（尤指儿童）；<美>牢房；<古>监视，看守；（锁内）齿凸；<史>城堡内空地，堡场<br>v. 接受（病人）入病房；<古>看守，保护"
+    },
+    {
+        "value": "vapor",
+        "US": "/ˈveɪpər/",
+        "UK": "/ˈveɪpə(r)/",
+        "translation": "n. 蒸气；水蒸气"
+    },
+    {
+        "value": "linger",
+        "US": "/ˈlɪŋɡər/",
+        "UK": "/ˈlɪŋɡə(r)/",
+        "translation": "v. 继续存留，缓慢消失；流连，逗留；持续看（或思考）；苟延残喘；消磨，缓慢度过"
+    },
+    {
+        "value": "superpose",
+        "US": "/ˌsuːpərˈpoʊz/",
+        "UK": "/ˌsuːpəˈpəʊz/",
+        "translation": "v. 把……放在上面，叠放，重叠；使（图形）叠合，重合；使叠加"
+    },
+    {
+        "value": "restore",
+        "US": "/rɪˈstɔːr/",
+        "UK": "/rɪˈstɔː(r)/",
+        "translation": "v. 恢复（某种情况或感受）；使复原，使复位；修复，整修；重新采用，恢复使用；归还"
+    },
+    {
+        "value": "juvenescence",
+        "US": "/ˌdʒʊvəˈnesns/",
+        "UK": "/ˌdʒuːvɪˈnes(ə)ns/",
+        "translation": "n. 返老还童；少年时期"
+    },
+    {
+        "value": "familiarity",
+        "US": "/fəˌmɪliˈærəti/",
+        "UK": "/fəˌmɪliˈærəti/",
+        "translation": "n. 精通，通晓；熟悉，亲切感；随便"
+    },
+    {
+        "value": "superficially",
+        "US": "/ˌsuːpərˈfɪʃəli/",
+        "UK": "/ˌsuːpəˈfɪʃəli/",
+        "translation": "adv. 表面地，从表面上看；肤浅地，浅薄地"
+    },
+    {
+        "value": "minnow",
+        "US": "/ˈmɪnoʊ/",
+        "UK": "/ˈmɪnəʊ/",
+        "translation": "n. 鲦鱼（一种小淡水鱼）；<比喻> 无足轻重的人（或机构、国家）"
+    },
+    {
+        "value": "cram",
+        "US": "/kræm/",
+        "UK": "/kræm/",
+        "translation": "v. 塞进，挤满；临时死记硬背，填鸭式学习；匆忙戴上；贪婪地吃<br>n. （应考）突击准备，死记硬背；极度拥挤"
+    },
+    {
+        "value": "renown",
+        "US": "/rɪˈnaʊn/",
+        "UK": "/rɪˈnaʊn/",
+        "translation": "n. 名誉，声望<br>v. 使有声望"
+    },
+    {
+        "value": "billow",
+        "US": "/ˈbɪloʊ/",
+        "UK": "/ˈbɪləʊ/",
+        "translation": "n. 巨浪，波涛；（烟、尘等的）大团，滚滚一团<br>vi. （烟、云、尘等）翻腾，升腾；（布、帆、窗帘等）鼓起，飘动<br>vt. 使翻腾，使鼓起"
+    },
+    {
+        "value": "revenge",
+        "US": "/rɪˈvendʒ/",
+        "UK": "/rɪˈvendʒ/",
+        "translation": "n. 报复，报仇；报复欲望，复仇心；雪耻（指在比赛中战胜曾击败自己的对手）<br>v. 复仇，报复；替（人）报仇；报（被冤枉，被伤害）之仇，洗雪（侮辱）"
+    },
+    {
+        "value": "celebrated",
+        "US": "/ˈselɪbreɪtɪd/",
+        "UK": "/ˈselɪbreɪtɪd/",
+        "translation": "adj. 著名的，驰名的<br>v. 庆祝，庆贺；赞扬，赞美；主持（宗教仪式）"
+    },
+    {
+        "value": "pivot",
+        "US": "/ˈpɪvət/",
+        "UK": "/ˈpɪvət/",
+        "translation": "n. 支点，枢轴；最重要的人（或事物），核心；转动，旋转；策应位置；中锋<br>v. （使）在枢轴上旋转；（以脚为支点）转身；（为机械装置）提供枢轴"
+    },
+    {
+        "value": "revenue",
+        "US": "/ˈrevənuː/",
+        "UK": "/ˈrevənjuː/",
+        "translation": "n. （企业、组织的）收入，收益；（政府的）税收；税务局，税务署"
+    },
+    {
+        "value": "serenity",
+        "US": "/səˈrenəti/",
+        "UK": "/səˈrenəti/",
+        "translation": "n. 平静，宁静"
+    },
+    {
+        "value": "tick",
+        "US": "/tɪk/",
+        "UK": "/tɪk/",
+        "translation": "n. <英>钩号；<英>一瞬间；（钟表等的）嘀嗒声；壁虱；<英>赊购；（股票）点；<英，非正式>一文不值的人，可鄙的人；褥套；（做垫套用的）坚质（条纹）布料<br>v. （钟或其他机械装置）发出滴答声；<英>打钩，做记号；进展，进步；正常运转；轻触，轻击；<非正式> （某人的思想、愿望或情感使其）做出……举动，有……的行为"
+    },
+    {
+        "value": "airfare",
+        "US": "/ˈerfer/",
+        "UK": "/ˈeəfeə(r)/",
+        "translation": "n. 飞机票价，机票费用"
+    },
+    {
+        "value": "reverse",
+        "US": "/rɪˈvɜːrs/",
+        "UK": "/rɪˈvɜːs/",
+        "translation": "v. 逆转，彻底改变（决定、政策、趋势等）；撤销，推翻（法庭判决）；颠倒，反转；交换，互换（位置、功能）；<美>承认错误，放弃（立场）；倒（车）；（发动机）反向运转；<英>打对方付费的电话；使（铅字，图案）印成白或浅色<br>n. 相对，相反；逆向，逆转；倒车挡；<正式>失败，挫折；反面，背面；（翻开的书）左手页，（活页文件的）背面；（硬币或奖牌）反面图案（或刻字）；（美式橄榄球）反向传球，变位传球<br>adj. 相反的，反向的；背面的，反面的；（半导体结的外加电压）反向的；（地层）逆断的，冲断的；反身的"
+    },
+    {
+        "value": "version",
+        "US": "/ˈvɜːrʒ(ə)n/",
+        "UK": "/ˈvɜːʃ(ə)n/",
+        "translation": "n. （同一种物件稍有不同的）样式，型号；（从不同角度的）说法，描述；（电影、剧本、乐曲等的）版本，改编形式；《圣经》译本；胎位倒转术<br>v. 创制……的新版本，更新……的版本"
+    },
+    {
+        "value": "lawfare",
+        "US": "/ˈlɔːfeər/",
+        "UK": "/ˈlɔːfeə(r)/",
+        "translation": "n. 法律战"
+    },
+    {
+        "value": "vigor",
+        "US": "/ˈvɪɡər/",
+        "UK": "/ˈvɪɡə(r)/",
+        "translation": "n. 活力，精力"
+    },
+    {
+        "value": "workfare",
+        "US": "/ˈwɜːrkfer/",
+        "UK": "/ˈwɜːkfeə(r)/",
+        "translation": "n. 工作福利制"
+    },
+    {
+        "value": "subdue",
+        "US": "/səbˈduː/",
+        "UK": "/səbˈdjuː/",
+        "translation": "v. 克制，抑制（情绪）；镇压，制服"
+    },
+    {
+        "value": "resonate",
+        "US": "/ˈrezəneɪt/",
+        "UK": "/ˈrezəneɪt/",
+        "translation": "v. 发出回响，回荡；充满，弥漫（某种特质）；引起共鸣；产生（电或机械）共振"
+    },
+    {
+        "value": "thoroughfare",
+        "US": "/ˈθɜːroʊfer/",
+        "UK": "/ˈθʌrəfeə(r)/",
+        "translation": "n. 大道，大街，通衢；通路，通道"
+    },
+    {
+        "value": "archaeological",
+        "US": "/ˌɑːrkiəˈlɑːdʒɪk(ə)l/",
+        "UK": "/ˌɑːkiəˈlɒdʒɪk(ə)l/",
+        "translation": "adj. 考古学的，考古的"
+    },
+    {
+        "value": "violate",
+        "US": "/ˈvaɪəleɪt/",
+        "UK": "/ˈvaɪəleɪt/",
+        "translation": "v. 违反，违背；侵犯，打扰；亵渎，损毁（神圣之地等）；<文>强奸"
+    },
+    {
+        "value": "flavor",
+        "US": "/ˈfleɪvər/",
+        "UK": "/feɪvə(r)/",
+        "translation": "n. 情味，风味；香料；滋味<br>v. 加味于"
+    },
+    {
+        "value": "revive",
+        "US": "/rɪˈvaɪv/",
+        "UK": "/rɪˈvaɪv/",
+        "translation": "v. （使）复原，（使）复苏；重新唤起，重新记起；重新使用，使复兴；重新上演"
+    },
+    {
+        "value": "fathom",
+        "US": "/ˈfæðəm/",
+        "UK": "/ˈfæðəm/",
+        "translation": "n. 英寻（测量水深单位，合6英尺或1.8米）<br>v. 深刻理解，彻底弄清（难题或神秘的人）；测量（水）的深度"
+    },
+    {
+        "value": "seafarer",
+        "US": "/ˈsiːferər/",
+        "UK": "/ˈsiːfeərə(r)/",
+        "translation": "n. 海员，船员；航海者，航海家"
+    },
+    {
+        "value": "revolve",
+        "US": "/rɪˈvɑːlv/",
+        "UK": "/rɪˈvɒlv/",
+        "translation": "v. （使）旋转；围绕……旋转；以……为最重要内容，以……为中心；反复思考，反复斟酌；循环出现<br>n. 旋转舞台"
+    },
+    {
+        "value": "sensible",
+        "US": "/ˈsensəb(ə)l/",
+        "UK": "/ˈsensəb(ə)l/",
+        "translation": "adj. 理智的，合理的； 朴素而实用的；<正式>可感觉到的，明显的<br>n. 可感觉到的东西"
+    },
+    {
+        "value": "well-fledged",
+        "US": "/ˌwel ˈfledʒd/",
+        "UK": "/ˌwel ˈfledʒd/",
+        "translation": "adj. 羽毛丰满的，成熟的"
+    },
+    {
+        "value": "rewind",
+        "US": "/ˌriːˈwaɪnd/",
+        "UK": "/ˌriːˈwaɪnd/",
+        "translation": "v. 倒回（录像带、磁带）；<非正式>回到原来的谈话内容（或活动）<br>n. 倒带（键）"
+    },
+    {
+        "value": "precede",
+        "US": "/prɪˈsiːd/",
+        "UK": "/prɪˈsiːd/",
+        "translation": "v. 处在……之前，先于；在……之前做（或说）；比……更重要，比……（级别）更高"
+    },
+    {
+        "value": "forge",
+        "US": "/fɔːrdʒ/",
+        "UK": "/fɔːdʒ/",
+        "translation": "v. 形成，缔造；伪造，假冒；稳步前进；锻造；伪装，假冒<br>n. 锻铁炉，锻造车间"
+    },
+    {
+        "value": "precedent",
+        "US": "/ˈpresɪdənt/",
+        "UK": "/ˈpresɪdənt/",
+        "translation": "n. 先例，前例；判例，实例；常规，惯例<br>adj. 在先的，前面的"
+    },
+    {
+        "value": "rhetorical",
+        "US": "/rɪˈtɔːrɪk(ə)l/",
+        "UK": "/rɪˈtɒrɪk(ə)l/",
+        "translation": "adj. （与）修辞（有关）的；反问的，反诘的；巧辩的，说话虚夸的"
+    },
+    {
+        "value": "resurge",
+        "US": "/rɪˈsɜːrdʒ/",
+        "UK": "/rɪˈsɜːdʒ/",
+        "translation": "vi. 复活；再起"
+    },
+    {
+        "value": "fountain",
+        "US": "/ˈfaʊnt(ə)n/",
+        "UK": "/ˈfaʊntən/",
+        "translation": "n. 喷泉；喷射；天然泉；源泉<br>v. 喷射，喷流"
+    },
+    {
+        "value": "sedentary",
+        "US": "/ˈsed(ə)nteri/",
+        "UK": "/ˈsed(ə)ntri/",
+        "translation": "adj. （人）惯于久坐不动的；（工作、活动等）需要久坐的；定居的，不迁徙的；（动物）静止的，固定附着的"
+    },
+    {
+        "value": "weary",
+        "US": "/ˈwɪri/",
+        "UK": "/ˈwɪəri/",
+        "translation": "adj. 疲劳的，疲倦的；使人疲劳的，令人厌烦的；厌倦的，厌烦的<br>v. （使）疲倦，（使）厌烦；<苏格兰>忧伤，烦恼"
+    },
+    {
+        "value": "instinct",
+        "US": "/ˈɪnstɪŋkt/",
+        "UK": "/ˈɪnstɪŋkt/",
+        "translation": "n. 本能，天性；直觉；天分，天赋<br>adj. 充满（某种品质，尤指好品质）的"
+    },
+    {
+        "value": "wedding",
+        "US": "/ˈwedɪŋ/",
+        "UK": "/ˈwedɪŋ/",
+        "translation": "n. 婚礼，结婚庆典；婚礼的；&lt;英&gt;结婚纪念，结婚纪念日；结合<br>v. 结婚，娶，嫁；（使）结合；坚持，专心于（活动、信仰或制度）"
+    },
+    {
+        "value": "glyphic",
+        "US": "/ˈɡlɪfɪk/",
+        "UK": "/ˈɡlɪfɪk/",
+        "translation": "adj. 象形文字的；雕刻的；雕像的"
+    },
+    {
+        "value": "ripe",
+        "US": "/raɪp/",
+        "UK": "/raɪp/",
+        "translation": "adj. （水果、谷物等）成熟的；（奶酪）熟的，（酒）芳醇的；（气味）浓烈的，刺鼻的，（香气）馥郁的；时机成熟的，适宜的；充满……的；高龄的，高寿的；（雌性鱼， 昆虫）快要产卵的；<非正式> (言语) 下流的，粗俗的"
+    },
+    {
+        "value": "whereas",
+        "US": "/ˌwerˈæz/",
+        "UK": "/ˌweərˈæz/",
+        "translation": "conj. （表示对比）但是，然而；鉴于（用于文件的开头）<br>n. 序言，开场白；条件语句"
+    },
+    {
+        "value": "redox",
+        "US": "/ˈriːdɑːks/",
+        "UK": "/ˈriːdɒks/",
+        "translation": "n. 氧化还原（反应）"
+    },
+    {
+        "value": "robber",
+        "US": "/ˈrɑːbər/",
+        "UK": "/ˈrɒbə(r)/",
+        "translation": "n. 强盗，抢劫犯"
+    },
+    {
+        "value": "argumentation",
+        "US": "/ˌɑːrɡjumənˈteɪʃ(ə)n/",
+        "UK": "/ˌɑːɡjumənˈteɪʃ(ə)n/",
+        "translation": "n. 论证，推论；争论，辩论"
+    },
+    {
+        "value": "robe",
+        "US": "/roʊb/",
+        "UK": "/rəʊb/",
+        "translation": "n. 袍服，礼袍；睡袍，浴衣<br>v. 穿，披（袍服或其他特殊衣服）"
+    },
+    {
+        "value": "whip",
+        "US": "/wɪp/",
+        "UK": "/wɪp/",
+        "translation": "n. 鞭子，皮鞭；党鞭，政党纪律委员；（用鸡蛋、鲜奶油与水果混合制成的）甜品；书面通知；鞭打，抽打；<喻>鞭策物，刺激物；鞭状枝，鞭状植物；<美>（用于割某些庄稼的）长柄大镰刀，钐刀；<英>党员资格；定单绞辘；<非正式>车；（专管把离群猎狗赶回狗群的）猎人副手<br>v. 鞭打，抽；快速移开，快速拿走；快速移动（某物）；搅打（奶油或蛋清使成糊状）；<非正式>偷盗，盗取；（在外力作用下）猛然移动；（柔韧性的物体、雨、风等）拍打，猛打；（故意）激起（情绪）；<非正式>彻底击败；急投，急传；将细绳缠绕于（某物），用细绳缠绕加固"
+    },
+    {
+        "value": "clockwise",
+        "US": "/ˈklɑːkwaɪz/",
+        "UK": "/ˈklɒkwaɪz/",
+        "translation": "adj. 顺时针方向的<br>adv. 顺时针方向地"
+    },
+    {
+        "value": "withdraw",
+        "US": "/wɪðˈdrɔː/",
+        "UK": "/wɪðˈdrɔː/",
+        "translation": "v. 提，取（银行账户中的钱款）；停止提供，不再给予； 退出，不参加；（军队）撤离； 脱离（社会），不与人交往；离开；（将某物从某地或位置）抽回，移开；撤回，收回（前言）；（从某物中）拿出；停止提供，召回；退出，返回（至另一个房间）；（因对工作时间、报酬等不满意而）罢工；取消（许可、邀请或提议）；戒毒"
+    },
+    {
+        "value": "arguer",
+        "US": "/ˈɑːrɡjuːər/",
+        "UK": "/ˈɑːɡjuːə(r)/",
+        "translation": "n. 争辩者；辩论者"
+    },
+    {
+        "value": "worm",
+        "US": "/wɜːrm/",
+        "UK": "/wɜːm/",
+        "translation": "n. 蠕虫；（某些昆虫的）幼虫；寄生虫，寄生虫病；小人物，懦夫；蠕虫病毒；蛆虫；螺纹状物，蜗杆，旋管<br>v. （给动物）驱肠虫；蠕动，曲折行进；（通常为欺骗别人或得到好处）逐渐取得（成功或好感）<br>abbr. 一次写入型光盘，单写多读型光盘"
+    },
+    {
+        "value": "rivalrous",
+        "US": "/ˈraɪvlrəs/",
+        "UK": "/ˈraɪv(ə)lrəs/",
+        "translation": "adj. 敌对性的；有竞争性的"
+    },
+    {
+        "value": "fend",
+        "US": "/fend/",
+        "UK": "/fend/",
+        "translation": "v. 避开，挡开；回避（难题、批评等）；自谋生计，照顾自己"
+    },
+    {
+        "value": "narration",
+        "US": "/nəˈreɪʃnˌnæˈreɪʃn/",
+        "UK": "/nəˈreɪʃn; næˈreɪʃn/",
+        "translation": "n. 叙述，讲故事；（电影、戏剧等中的）旁白，解说"
+    },
+    {
+        "value": "imply",
+        "US": "/ɪmˈplaɪ/",
+        "UK": "/ɪmˈplaɪ/",
+        "translation": "v. 暗示，暗指；意味着；必然包含"
+    },
+    {
+        "value": "scenic",
+        "US": "/ˈsiːnɪk/",
+        "UK": "/ˈsiːnɪk/",
+        "translation": "adj. 风景优美的；观光的；舞台布景的；（画）描绘事件的"
+    },
+    {
+        "value": "zebra",
+        "US": "/ˈziːbrə/",
+        "UK": "/ˈzebrə/",
+        "translation": "n. 斑马；斑马纹蝶；<南非>斑马鱼，重牙鲷"
+    },
+    {
+        "value": "impulse",
+        "US": "/ˈɪmpʌls/",
+        "UK": "/ˈɪmpʌls/",
+        "translation": "n. 冲动；脉冲；推动力<br>adj. 一时兴起的，随兴的<br>v. 推动"
+    },
+    {
+        "value": "seal",
+        "US": "/siːl/",
+        "UK": "/siːl/",
+        "translation": "n. 印章，图章；表示确认的事物；密封装置，密封物；密封，密封状态；水止，水封（根据排污管道深度U形管中防止臭气上升的存水）；封蜡，火漆；封蜡模（印），封铅模（印）；海豹；海豹皮；装饰性的背面涂胶水的邮票（印花）；（美国海军）海豹特种部队士兵<br>v. 封上（信封）；密封（容器）；确定，使成定局；给……涂上保护层；（给文件）加封，盖印；封锁；（为避免烹调时失去过多水分，将食物放在热油中）快速煎炸；猎捕海豹"
+    },
+    {
+        "value": "bachelor",
+        "US": "/ˈbætʃələr/",
+        "UK": "/ˈbætʃələ(r)/",
+        "translation": "n. 未婚男子，单身汉；学士；尚未交配的雄鸟"
+    },
+    {
+        "value": "individuality",
+        "US": "/ˌɪndɪˌvɪdʒuˈæləti/",
+        "UK": "/ˌɪndɪˌvɪdʒuˈæləti/",
+        "translation": "n. 个性，个人特征；个体，单个实体；个人的嗜好"
+    },
+    {
+        "value": "yield",
+        "US": "/jiːld/",
+        "UK": "/jiːld/",
+        "translation": "v. 产生（收益、效益等），产生（结果）；出产（天然产品，农产品，工业产品）；屈服，让步；放弃，让出；给（大路上的车辆）让路；（受压）活动，弯曲，折断；&lt;正式&gt;被……替代；请（某人）讲话；停止争论<br>n. 产量；收益，利润，红利（或股息）率"
+    },
+    {
+        "value": "institution",
+        "US": "/ˌɪnstɪˈtuːʃ(ə)n/",
+        "UK": "/ˌɪnstɪˈtjuːʃ(ə)n/",
+        "translation": "n. 机构，团体；社会收容机构；制度，习俗；建立，制定；知名的人（或事物）"
+    },
+    {
+        "value": "semester",
+        "US": "/sɪˈmestər/",
+        "UK": "/sɪˈmestə(r)/",
+        "translation": "n. 学期，半学年"
+    },
+    {
+        "value": "extra-curricular",
+        "US": "/ˌekstrə kəˈrɪkjələr/",
+        "UK": "/ˌekstrə kəˈrɪkjələ(r)/",
+        "translation": "adj. 课外的"
+    },
+    {
+        "value": "dining",
+        "US": "/ˈdaɪnɪŋ/",
+        "UK": "/ˈdaɪnɪŋ/",
+        "translation": "n. 吃饭，进餐<br>v. 吃饭"
+    },
+    {
+        "value": "junction",
+        "US": "/ˈdʒʌŋkʃ(ə)n/",
+        "UK": "/ˈdʒʌŋkʃ(ə)n/",
+        "translation": "n. （公路或铁路的）交叉口，岔道口；汇合处，交叉点；（电子）接口；连接，结合；（高速公路的）出入口；（铁路的）枢纽站，联轨站"
+    },
+    {
+        "value": "seminar",
+        "US": "/ˈsemɪnɑːr/",
+        "UK": "/ˈsemɪnɑː(r)/",
+        "translation": "n. 研讨会，培训会；（大学的）专题讨论课，研讨班"
+    },
+    {
+        "value": "fairy",
+        "US": "/ˈferi/",
+        "UK": "/ˈfeəri/",
+        "translation": "n. 仙子，小精灵；兔子（对男同性恋者的蔑称）；仙蜂鸟<br>adj. 仙女的"
+    },
+    {
+        "value": "hazy",
+        "US": "/ˈheɪzi/",
+        "UK": "/ˈheɪzi/",
+        "translation": "adj. 雾蒙蒙的，朦胧的；记不清的，模糊的；主意不定的，困惑的"
+    },
+    {
+        "value": "setting",
+        "US": "/ˈsetɪŋ/",
+        "UK": "/ˈsetɪŋ/",
+        "translation": "n. （某事发生的）环境，场合；（戏剧、小说或电影的）场景，背景；&lt;美&gt;舞台布景；（设备的）档位；（宝石的）镶嵌底座；（为诗、祷文等谱写的）乐曲；（供一人用的）一副餐具<br>v. （小心地）放置；嵌入（表面）；（电影、戏剧、故事等）以……为背景"
+    },
+    {
+        "value": "glare",
+        "US": "/ɡler/",
+        "UK": "/ɡleə(r)/",
+        "translation": "v. 怒视，瞪眼；发出刺眼的强光，闪耀<br>n. 刺眼的强光；怒视；密切关注；<古>耀眼（或炫耀的）外表，俗艳"
+    },
+    {
+        "value": "lacking",
+        "US": "/ˈlækɪŋ/",
+        "UK": "/ˈlækɪŋ/",
+        "translation": "adj. 缺乏的，不足的；没有的，缺失的，不存在的；有缺陷的，不充分的<br>v. 缺少，没有，不足"
+    },
+    {
+        "value": "sink",
+        "US": "/sɪŋk/",
+        "UK": "/sɪŋk/",
+        "translation": "v. 下沉，沉没；使失败，受挫；下降，下陷；倒下，坐下；衰退，恶化；渗透，渐渐陷入；减少，降低；（声音）变低，变小；堕落，沉沦；挖掘；插入，打入；投进，滚进；投资；<英，非正式>喝（酒）<br>adj. <英>贫困的，贫民窟的<br>n. 水槽，水池；洼地，渗坑；<英，喻>位于社会贫困地区的学校或房产；<喻>藏垢的场所；<技>汇，壑"
+    },
+    {
+        "value": "charm",
+        "US": "/tʃɑːrm/",
+        "UK": "/tʃɑːm/",
+        "translation": "n. 魅力，魔力；护身符，咒语；小挂件，小饰物；粲，粲数<br>v. 吸引，迷住；诱使，哄诱；向……施魔法，用魔法控制；有魔力"
+    },
+    {
+        "value": "niece",
+        "US": "/niːs/",
+        "UK": "/niːs/",
+        "translation": "n. 外甥女，侄女"
+    },
+    {
+        "value": "feature",
+        "US": "/ˈfiːtʃər/",
+        "UK": "/ˈfiːtʃə(r)/",
+        "translation": "n. 特点，特征；五官，面貌（特征）；地貌；特写，专题节目；正片； 特点，特征<br>v. 以……为特色，以……为主要组成；起重要作用，占重要地位；放映，上演；担任主演"
+    },
+    {
+        "value": "spur",
+        "US": "/spɜːr/",
+        "UK": "/spɜː(r)/",
+        "translation": "n. 一时冲动之下，心血来潮；刺激，激励；山嘴，尖坡；（公路或铁路的）支线，岔线；马刺，靴刺<br>v. 激励，鼓励；促进，加速，刺激（某事发生）；用马刺策（马）前进；紧贴主干剪短（副梢）"
+    },
+    {
+        "value": "chin",
+        "US": "/tʃɪn/",
+        "UK": "/tʃɪn/",
+        "translation": "n. 颏，下巴<br>v. &lt;非正式&gt;击打下巴；引体向上"
+    },
+    {
+        "value": "landfill",
+        "US": "/ˈlændfɪl/",
+        "UK": "/ˈlændfɪl/",
+        "translation": "n. 废物填埋，垃圾填埋；废物填埋场，垃圾填埋地；填埋的废弃物；填埋的废弃物<br>v. 把…埋在垃圾填埋场"
+    },
+    {
+        "value": "unveil",
+        "US": "/ˌʌnˈveɪl/",
+        "UK": "/ˌʌnˈveɪl/",
+        "translation": "v. （首次）公开，揭示；为……揭幕，揭去……上的覆盖物；除去面纱，显露"
+    },
+    {
+        "value": "landlady",
+        "US": "/ˈlændleɪdi/",
+        "UK": "/ˈlændleɪdi/",
+        "translation": "n. 女房东，女地主；（酒吧或招待所的）女老板"
+    },
+    {
+        "value": "involuntarily",
+        "US": "/ɪnˌvɑːlənˈterəli/",
+        "UK": "/ɪnˈvɒləntrəli/",
+        "translation": "adv. 不由自主地，不自觉地；非自愿地，不情愿地；无意中，无心地，偶然地"
+    },
+    {
+        "value": "cobblestone",
+        "US": "/ˈkɑːblstoʊn/",
+        "UK": "/ˈkɒblstəʊn/",
+        "translation": "n. 鹅卵石；圆石"
+    },
+    {
+        "value": "lane",
+        "US": "/leɪn/",
+        "UK": "/leɪn/",
+        "translation": "n. （乡间）小路；（用于路名）道，路；车道；（比赛的）跑道，泳道；航道，航线；<美>（保龄球）球道；收银通道；（电泳）泳道；（尤指漩涡星系中的）暗条；（篮球的）罚球区"
+    },
+    {
+        "value": "snack",
+        "US": "/snæk/",
+        "UK": "/snæk/",
+        "translation": "n. 零食，点心，小吃；快餐；<澳，非正式>易办到的事，小菜一碟<br>v. 吃点心，吃零食"
+    },
+    {
+        "value": "couch",
+        "US": "/kaʊtʃ/",
+        "UK": "/kaʊtʃ/",
+        "translation": "n. 长沙发，长榻；诊察台<br>v. 表达，措辞；&lt;文&gt;躺下，躺卧；&lt;古&gt;平端（矛或枪）（准备攻击）；用下压及后压晶状体的方式治疗（白内障）；贴线缝绣"
+    },
+    {
+        "value": "lastly",
+        "US": "/ˈlæstli/",
+        "UK": "/ˈlɑːstli/",
+        "translation": "adv. 最后（一点）"
+    },
+    {
+        "value": "crocodile",
+        "US": "/ˈkrɑːkədaɪl/",
+        "UK": "/ˈkrɒkədaɪl/",
+        "translation": "n. 鳄鱼"
+    },
+    {
+        "value": "staff",
+        "US": "/stæf/",
+        "UK": "/stɑːf/",
+        "translation": "n. 全体员工，全体雇员；&lt;美&gt;（大、中、小学的）管理人员，行政人员；（军队的）全体参谋人员；陆军上士；手杖，拐杖；权杖，笏；旗杆；（测绘）标杆，标尺；&lt;英&gt;（钟表的）小轴杆；&lt;英&gt;（铁路的）路签；五线谱<br>adj. 职员的<br>v. 为……配备员工；是……的职员"
+    },
+    {
+        "value": "lawn",
+        "US": "/lɔːn/",
+        "UK": "/lɔːn/",
+        "translation": "n. 草坪，草地；上等细棉布，上等细麻布"
+    },
+    {
+        "value": "embroider",
+        "US": "/ɪmˈbrɔɪdər/",
+        "UK": "/ɪmˈbrɔɪdə(r)/",
+        "translation": "vt. 刺绣，用针线装饰，镶边；渲染，添枝加叶（给故事、叙述等增加细节）<br>vi. 绣花，刺绣"
+    },
+    {
+        "value": "crown",
+        "US": "/kraʊn/",
+        "UK": "/kraʊn/",
+        "translation": "n. 王冠，冕；王位，王权；王国政府，王国；冠军宝座，桂冠；头顶，帽顶；顶部；（受损牙齿的）人造冠<br>v. 为……加冕，立……为王；形成……顶部，给……加顶；使圆满，使完美；（在牙齿上）镶人造冠；&lt;非正式&gt;打……的头部；（分娩时胎儿的头）露顶"
+    },
+    {
+        "value": "horror",
+        "US": "/ˈhɔːrər/",
+        "UK": "/ˈhɒrə(r)/",
+        "translation": "n. 震惊，恐惧；惧怕，憎恶；恐怖性；极其不愉快的（或可怕的）经历；恐怖故事（或电影等）；<非正式>调皮捣蛋的孩子"
+    },
+    {
+        "value": "curse",
+        "US": "/kɜːrs/",
+        "UK": "/kɜːs/",
+        "translation": "n. 骂人话，咒骂语；咒语，魔咒；祸根，祸因；月经，例假<br>v. 诅咒，咒骂；（在心里）臭骂；念咒语诅咒"
+    },
+    {
+        "value": "modest",
+        "US": "/ˈmɑːdɪst/",
+        "UK": "/ˈmɒdɪst/",
+        "translation": "adj. 不太多的，适中的；谦虚的，谦逊的；保守的，端庄的；不错的；（服装）不显身材的；羞怯的，腼腆的"
+    },
+    {
+        "value": "hatchet",
+        "US": "/ˈhætʃɪt/",
+        "UK": "/ˈhætʃɪt/",
+        "translation": "n. 短柄小斧；恶毒攻击，诽谤性报道或评论<br>v. 用短柄小斧砍伐；（比喻）扼杀，摧毁（计划、事物等）；和解，言归于好，捐弃前嫌"
+    },
+    {
+        "value": "plunge",
+        "US": "/plʌndʒ/",
+        "UK": "/plʌndʒ/",
+        "translation": "v. （使）突然向前倒下（跌落）；猛推，猛插；投入（液体中以使淹没）；（价值）猛跌；（剧烈）颠簸，震荡；（马）猛地用后腿直立；陡然向下倾斜；骤然陷入；（鲁莽地）开始；（使）投身，（使）突然开始从事；种下（植物）<br>n. （突然的）坠落；跳水，快速游泳；（价值或数量的）骤然下跌；突然陷入<br>adj. （女式服装）领口低的"
+    },
+    {
+        "value": "sob",
+        "US": "/sɑːb/",
+        "UK": "/sɒb/",
+        "translation": "v. 啜泣，抽噎；哭诉，呜咽地说；（风等）发出呜咽声<br>n. 抽噎（声），呜咽（声）"
+    },
+    {
+        "value": "tumble",
+        "US": "/ˈtʌmb(ə)l/",
+        "UK": "/ˈtʌmb(ə)l/",
+        "translation": "v. 跌倒，滚落；倒塌，坍塌；（价值）暴跌；跌跌撞撞地走；（水）快速移动；（兴奋或伤心地）快速说；翻跟头；（头发）垂落；用滚筒甩干；弄乱，弄皱；用滚筒把（宝石等）弄干净<br>n. 跌倒，滚落，暴跌；混乱，杂乱；翻跟头；<美，非正式>示好"
+    },
+    {
+        "value": "consolidate",
+        "US": "/kənˈsɑːlɪdeɪt/",
+        "UK": "/kənˈsɒlɪdeɪt/",
+        "translation": "v. 使巩固，使加强；合并，统一"
+    },
+    {
+        "value": "sag",
+        "US": "/sæɡ/",
+        "UK": "/sæɡ/",
+        "translation": "v. （尤指由于承重或受压）中间下垂，下凹；减弱；（身体某部位）松弛；萎靡；衰退，下跌<br>n. （虚弱或重压引起的）下弯，下垂；下垂度；（尤指暂时的）下降，萧条"
+    },
+    {
+        "value": "sanctuary",
+        "US": "/ˈsæŋktʃueri/",
+        "UK": "/ˈsæŋktʃuəri/",
+        "translation": "n. 避难权，庇护；避难所，庇护所；动物保护区，禁猎区；（某种受伤或遭遗弃动物的）收养所；宗教圣所，圣殿；（教堂内的）圣坛"
+    },
+    {
+        "value": "heuristic",
+        "US": "/hjuˈrɪstɪk/",
+        "UK": "/hjuˈrɪstɪk/",
+        "translation": "adj. （教学或教育）启发式的；（计算机程序）探试的，探索的<br>n. 启发式步骤（或方法）"
+    },
+    {
+        "value": "promptly",
+        "US": "/ˈprɑːmptli/",
+        "UK": "/ˈprɒmptli/",
+        "translation": "adv. 迅速地；立即，马上；准时地"
+    },
+    {
+        "value": "undivided",
+        "US": "/ˌʌndɪˈvaɪdɪd/",
+        "UK": "/ˌʌndɪˈvaɪdɪd/",
+        "translation": "adj. 专心的；专一的；未分开的；完整的"
+    },
+    {
+        "value": "undervalue",
+        "US": "/ˌʌndərˈvæljuː/",
+        "UK": "/ˌʌndəˈvæljuː/",
+        "translation": "v. 低估……的价值；看轻，轻视<br>n. 低于实际价值的价格"
+    },
+    {
+        "value": "persist",
+        "US": "/pərˈsɪst/",
+        "UK": "/pəˈsɪst/",
+        "translation": "v. 继续存在，持续；坚持，执意；坚持说，反复说"
+    },
+    {
+        "value": "soil",
+        "US": "/sɔɪl/",
+        "UK": "/sɔɪl/",
+        "translation": "n. 泥土，土壤；（可供某物发展的）土壤，温床；国土，领土；<文>耕作，务农；粪便<br>v. 弄脏，玷污"
+    },
+    {
+        "value": "eery",
+        "US": "/ˈɪri/",
+        "UK": "/ˈɪəri/",
+        "translation": "adj. 怪诞的；可怕的；奇异的；恐惧的"
+    },
+    {
+        "value": "recruit",
+        "US": "/rɪˈkruːt/",
+        "UK": "/rɪˈkruːt/",
+        "translation": "v. 招聘，招收（新成员）；招募（新兵）；说服，动员；（通过招募）组成，组建；<旧> 恢复（数量、力气等）<br>n.  新兵；新成员"
+    },
+    {
+        "value": "ambitious",
+        "US": "/æmˈbɪʃəs/",
+        "UK": "/æmˈbɪʃəs/",
+        "translation": "adj. 有抱负的，野心勃勃的；费劲的，艰巨的；热望的"
+    },
+    {
+        "value": "cognitive",
+        "US": "/ˈkɑːɡnətɪv/",
+        "UK": "/ˈkɒɡnətɪv/",
+        "translation": "adj. 认识的，认知的"
+    },
+    {
+        "value": "soldier",
+        "US": "/ˈsoʊldʒər/",
+        "UK": "/ˈsəʊldʒə(r)/",
+        "translation": "n. 士兵，军人；（昆） 兵蚁；垂直的砖（或木头等建筑材料）；<英，非正式>面包条，土司条；懒汉<br>v. 当兵；坚持不懈，迎难而上；假称害病；磨洋工"
+    },
+    {
+        "value": "anticipate",
+        "US": "/ænˈtɪsɪpeɪt/",
+        "UK": "/ænˈtɪsɪpeɪt/",
+        "translation": "v. 预期，预料；预见（并做准备）；期望，盼望；先于……做，早于……行动；提前使用；在期限内履行（义务），偿还（债务）"
+    },
+    {
+        "value": "compose",
+        "US": "/kəmˈpoʊz/",
+        "UK": "/kəmˈpəʊz/",
+        "translation": "v. 组成，构成；作曲；撰写（信、诗或演讲稿）；使镇静，使平静；为（照片、图像）构图；排版，排稿"
+    },
+    {
+        "value": "trace",
+        "US": "/treɪs/",
+        "UK": "/treɪs/",
+        "translation": "v. 查出，发现，追踪；追溯，追究；描绘（事物的过程或发展），记述；（尤指用手指、脚趾）画（图，线）；勾画……的轮廓，勾勒；（用透明纸覆盖在地图、绘画等上）复制，描摹；（手指、嘴唇等）沿着……移动<br>n. 痕迹，遗迹，踪迹；微量，少许；描记图，扫描线；挽绳，缰绳；跟踪，追查；（大脑上的学习或记忆）痕迹，印迹；&lt;西印度，美&gt;小径，小道；交线，迹线；（数）迹"
+    },
+    {
+        "value": "solitude",
+        "US": "/ˈsɑːlətuːd/",
+        "UK": "/ˈsɒlətjuːd/",
+        "translation": "n. 独居，独处，孤独；偏僻的地方，无人居住的地方"
+    },
+    {
+        "value": "noble",
+        "US": "/ˈnoʊb(ə)l/",
+        "UK": "/ˈnəʊb(ə)l/",
+        "translation": "adj. 崇高的，高尚的；宏伟的，卓越的；贵族的，高贵的；惰性的<br>n. （旧时的）贵族"
+    },
+    {
+        "value": "eagle",
+        "US": "/ˈiːɡ(ə)l/",
+        "UK": "/ˈiːɡ(ə)l/",
+        "translation": "n. 鹰，雕；鹰击（比标准杆少打两杆）；（尤指作为美国标志的，或曾作罗马和法国军旗的）鹰状图形；<美>（曾在美国通行的价值10美元的）鹰徽金币<br>v. （高尔夫）在（某洞）上打出老鹰球"
+    },
+    {
+        "value": "sore",
+        "US": "/sɔːr/",
+        "UK": "/sɔː(r)/",
+        "translation": "adj. （发炎）疼痛的，酸痛的；<美，非正式>恼火的，恼怒的；（精神上）痛苦的，困扰的；极度的，非常的<br>n. 伤处，痛处，疮；痛处，伤心事"
+    },
+    {
+        "value": "solidify",
+        "US": "/səˈlɪdɪfaɪ/",
+        "UK": "/səˈlɪdɪfaɪ/",
+        "translation": "v. （使）凝固，变硬；（使）变可靠，（使）变稳固"
+    },
+    {
+        "value": "souvenir",
+        "US": "/ˌsuːvəˈnɪr/",
+        "UK": "/ˌsuːvəˈnɪə(r)/",
+        "translation": "n. 纪念品，纪念物<br>v. <非正式>把……作为纪念品"
+    },
+    {
+        "value": "mat",
+        "US": "/mæt/",
+        "UK": "/mæt/",
+        "translation": "n. 地垫，垫子；团，簇"
+    },
+    {
+        "value": "spice",
+        "US": "/spaɪs/",
+        "UK": "/spaɪs/",
+        "translation": "n. 香料，调味品；情趣，趣味；赤褐色；<北英格兰>糖果；<罕>少许<br>v. 给……增添趣味；在……中加香料"
+    },
+    {
+        "value": "mate",
+        "US": "/meɪt/",
+        "UK": "/meɪt/",
+        "translation": "n. <英，非正式>朋友，伙伴；同伴，同事；配偶，伴侣；配对物，一对中的一个；<英，非正式>（男人之间常用）哥儿们，伙计；<英>助手，下手；（船上的）大副；（美国海军的）军士；（国际象棋比赛中的）将死<br>v. （使）交配；连接，配备；（国际象棋中把对方）将死"
+    },
+    {
+        "value": "spoil",
+        "US": "/spɔɪl/",
+        "UK": "/spɔɪl/",
+        "translation": "v. 破坏，糟蹋；溺爱，宠坏；善待，格外关照；（食物）变质，腐败；使（选票）作废；极度渴望，跃跃欲试；<古>抢劫（人，地方），掠夺<br>n. 赃物，战利品；成功所带来的好处；（开掘时挖出的）废土，废泥土"
+    },
+    {
+        "value": "mayor",
+        "US": "/ˈmeɪər/",
+        "UK": "/meə(r)/",
+        "translation": "n. （英格兰、威尔士和北爱尔兰由议员选举产生的）镇长，市长；（美国、加拿大等国家公众选举的）市长"
+    },
+    {
+        "value": "spy",
+        "US": "/spaɪ/",
+        "UK": "/spaɪ/",
+        "translation": "n. 间谍，密探；暗中监视者<br>v. 从事间谍活动；突然看见，认出；秘密监视；探明，查明<br>adj. （卫星、飞机）执行间谍任务的"
+    },
+    {
+        "value": "navigate",
+        "US": "/ˈnævɪɡeɪt/",
+        "UK": "/ˈnævɪɡeɪt/",
+        "translation": "v. 导航，引路；航行于，横渡；穿过，穿越；驾驶，操纵；浏览；（有效地）处理；(鱼、动物或昆虫)找到正确的行动方向；绕过"
+    },
+    {
+        "value": "squirrel",
+        "US": "/ˈskwɜːrəl/",
+        "UK": "/ˈskwɪrəl/",
+        "translation": "n. 松鼠；松鼠的毛皮<br>v. 贮藏（供以后使用）；不停（或不安）地探寻"
+    },
+    {
+        "value": "methane",
+        "US": "/ˈmeθeɪn/",
+        "UK": "/ˈmiːθeɪn/",
+        "translation": "n. 甲烷，沼气"
+    },
+    {
+        "value": "stain",
+        "US": "/steɪn/",
+        "UK": "/steɪn/",
+        "translation": "v. （被）玷污，留下污渍；给……染色（或着色）；玷污，败坏（名声等）<br>n. 污点，污渍；染色剂，着色剂；（名声上的）污点；（纹章）（纹章和徽章的）辅助色，次要颜色（尤指棕褐色和血红色）"
+    },
+    {
+        "value": "nourish",
+        "US": "/ˈnɜːrɪʃ/",
+        "UK": "/ˈnʌrɪʃ/",
+        "translation": "v. 养育，滋养；培养，怀有（感情、信念等）"
+    },
+    {
+        "value": "mineral",
+        "US": "/ˈmɪnərəl/",
+        "UK": "/ˈmɪnərəl/",
+        "translation": "n. 矿物质；矿物；<英>汽水，苏打水；无机物；矿泉水<br>adj. （与）矿物（有关）的"
+    },
+    {
+        "value": "steward",
+        "US": "/ˈstuːərd/",
+        "UK": "/ˈstjuːəd/",
+        "translation": "n. （飞机、火车或船上的）男服务员，男乘务员；（赛马、聚会或其他公共活动的）负责人，管事；（金钱、财产等的）管理人，主管；（私人家中的）管家；（大学、俱乐部等机构的）伙食管理员<br>v. （官员）管理（大型公共事件）；当……的管家"
+    },
+    {
+        "value": "sticky",
+        "US": "/ˈstɪki/",
+        "UK": "/ˈstɪki/",
+        "translation": "adj. 黏性的，涂有黏性物质的；（皮肤因热而）黏湿的；（天气）湿热的，闷热的；（处境、问题等）难办的，棘手的；（网站）吸引人的，吸引人长时间浏览的；（食物）甜腻的；（价格，利率，薪水）变化缓慢的，对变化反应缓慢的；&lt;英，非正式&gt;持有异议的，抱不合作态度的；持久的；&lt;非正式&gt;感到热得难受的<br>n. 告事贴；置顶留言"
+    },
+    {
+        "value": "groundswell",
+        "US": "/ˈɡraʊndswel/",
+        "UK": "/ˈɡraʊndswel/",
+        "translation": "n. （舆论、情绪）迅速高涨；海啸，激涌"
+    },
+    {
+        "value": "minister",
+        "US": "/ˈmɪnɪstər/",
+        "UK": "/ˈmɪnɪstə(r)/",
+        "translation": "n. （英国及其他许多国家的）部长，大臣；牧师；公使，外交使节<br>v. 满足（……的需要），帮助；当牧师；执行（或主持）（圣餐式）"
+    },
+    {
+        "value": "stir",
+        "US": "/stɜːr/",
+        "UK": "/stɜː(r)/",
+        "translation": "v. 搅拌，搅和（液体等物质）；激发，打动；（情感）逐渐产生，萌发；（使）行动，活动；（使）微动；离开；&lt;英，非正式&gt;挑拨，惹是生非<br>n. 搅动，搅拌；激动（情绪），愤怒（情绪）；微动，颤动；轻微的感觉；监狱"
+    },
+    {
+        "value": "ministry",
+        "US": "/ˈmɪnɪstri/",
+        "UK": "/ˈmɪnɪstri/",
+        "translation": "n. （政府的）部，部办公楼；（全体）牧师；神职，神职任期；一任首相的执政期；照料，服务"
+    },
+    {
+        "value": "stove",
+        "US": "/stoʊv/",
+        "UK": "/stəʊv/",
+        "translation": "n. （取暖或烹饪用的）炉子，火炉；厨灶，炉头；窑；<英>温室<br>v. （为了喷涂表层而）在炉中对（物体）进行热处理；（用硫磺等烟雾）烟熏，消毒（房屋）；<英>在温室中加速（植物）生长，培植（植物）<br>v. 击穿；挡开，延缓"
+    },
+    {
+        "value": "strait",
+        "US": "/streɪt/",
+        "UK": "/streɪt/",
+        "translation": "n. 海峡，狭窄水道；（尤指财务问题导致的）窘境，困境<br>adj. <古>严格的，精确的；<古>（地方）空间有限的，狭窄的；苦恼的<br>adv. 严格地，精确地"
+    },
+    {
+        "value": "celestial",
+        "US": "/səˈlestʃ(ə)l/",
+        "UK": "/səˈlestiəl/",
+        "translation": "adj. 天空的，天上的；天国的，天堂的；精美绝伦的"
+    },
+    {
+        "value": "miserable",
+        "US": "/ˈmɪzrəb(ə)l/",
+        "UK": "/ˈmɪzrəbl/",
+        "translation": "adj. 痛苦的，使人难受的；（人）乖戾的，总是抱怨的；少得可怜的，太少的；糟糕的，差劲的"
+    },
+    {
+        "value": "straw",
+        "US": "/strɔː/",
+        "UK": "/strɔː/",
+        "translation": "n. （干燥的）麦秆，稻草；（喝饮料用的）吸管；稻草色，淡黄色；一文不值的东西<br>adj. 稻草的；无价值的"
+    },
+    {
+        "value": "strive",
+        "US": "/straɪv/",
+        "UK": "/straɪv/",
+        "translation": "v. 努力，力争；斗争，反抗"
+    },
+    {
+        "value": "modem",
+        "US": "/ˈmoʊdəm/",
+        "UK": "/ˈməʊdem/",
+        "translation": "n. 调制解调器"
+    },
+    {
+        "value": "superb",
+        "US": "/suːˈpɜːrb/",
+        "UK": "/suːˈpɜːb/",
+        "translation": "adj. 极佳的，质量极高的；（信心、控制力、技巧）非同一般的，超凡的；壮丽的，辉煌的；羽毛鲜艳夺目的"
+    },
+    {
+        "value": "nuclear",
+        "US": "/ˈnuːkliər/",
+        "UK": "/ˈnjuːkliə(r)/",
+        "translation": "adj. 核子的，原子核的；核武器的；原子能的，核能的；核心的，中心的；细胞核的，构成细胞核的"
+    },
+    {
+        "value": "verb",
+        "US": "/vɜːrb/",
+        "UK": "/vɜːb/",
+        "translation": "n. 动词；动词词性；动词性短语或从句"
+    },
+    {
+        "value": "quantity",
+        "US": "/ˈkwɑːntəti/",
+        "UK": "/ˈkwɒntəti/",
+        "translation": "n. 量，数目；大量，大批；（尤指和质量相对的）数量；（语音）音量；值，参量；代表数量（或参量）的数（或符号）"
+    },
+    {
+        "value": "swan",
+        "US": "/swɑːn/",
+        "UK": "/swɒn/",
+        "translation": "n. 天鹅；天鹅星座<br>v. <英，非正式>无目的地漫游，闲逛"
+    },
+    {
+        "value": "quarrel",
+        "US": "/ˈkwɑːrəl/",
+        "UK": "/ˈkwɒrəl/",
+        "translation": "n. 争吵，拌嘴；抱怨（或不赞成）的理由；&lt;史&gt;（用石弓或劲弩发射的）方镞箭，方头投射物<br>v. 争吵，吵架；不同意，反对；抱怨"
+    },
+    {
+        "value": "swelling",
+        "US": "/ˈswelɪŋ/",
+        "UK": "/ˈswelɪŋ/",
+        "translation": "n. 肿块，肿胀处；膨胀，肿胀；自然突出部分<br>v. （身体部位）肿胀，膨胀， 使（某物）膨胀，使肿胀；（使）鼓起，（使）隆起；（使）增长，增加，扩大"
+    },
+    {
+        "value": "miraculously",
+        "US": "/mɪˈrækjələsli/",
+        "UK": "/mɪˈrækjələsli/",
+        "translation": "adv. 奇迹般地；神奇地；非凡地；出乎意料地"
+    },
+    {
+        "value": "queer",
+        "US": "/kwɪr/",
+        "UK": "/kwɪə(r)/",
+        "translation": "adj. <旧>奇怪的，异常的；<非正式>男同性恋的；<英，旧，非正式>略感不适的<br>n. <非正式>同性恋者；伪造的货币<br>v. <英，非正式>毁坏，搞糟（协议、事件、局面）；使陷于不利地位"
+    },
+    {
+        "value": "symptom",
+        "US": "/ˈsɪmptəm/",
+        "UK": "/ˈsɪmptəm/",
+        "translation": "n. （医） 症状；（大问题的）迹象，征兆，征候"
+    },
+    {
+        "value": "questionnaire",
+        "US": "/ˌkwestʃəˈner/",
+        "UK": "/ˌkwestʃəˈneə(r)/",
+        "translation": "n. 问卷，调查表"
+    },
+    {
+        "value": "tap",
+        "US": "/tæp/",
+        "UK": "/tæp/",
+        "translation": "v. 轻拍，轻扣，轻敲；敲出节奏，打拍子；凿孔装（龙头或旋塞）；旋开（桶等容器）放出液体；在（树）上切口（导出液体）；（在电话上）装窃听器，窃听；开发，发掘，利用（资源、形势）；<美> 委任，指定（某人做某事）；<英，非正式> 非法劝说（运动员）转会（到另一俱乐部）；向（某人）索取， 从……处获得钱（或信息）；（使用键盘）输入；给……攻丝；发出轻拍音<br>n. 水龙头，阀门，旋塞；轻拍（声），轻敲（声）；窃听，窃听器；踢踏舞；（踢踏舞鞋尖或鞋跟上的）金属片；（军营里晚上的）熄灯号，（军队的）葬礼号；<英>（女童子军活动中）篝火晚会上（或集会上）唱的结束曲；<英> 酒吧；螺丝攻；<英>（电） 分接头；轻拍音"
+    },
+    {
+        "value": "quilt",
+        "US": "/kwɪlt/",
+        "UK": "/kwɪlt/",
+        "translation": "n. 被子，被褥；<英>羽绒被；编织床罩；绝缘层，绝缘垫；被状物<br>v. 缝被子；（为缝制床罩、保暖衣，或为装饰效果而）将（几层织物或衬料）按线条图案缝合；<澳，非正式>猛击（某人）"
+    },
+    {
+        "value": "terrorist",
+        "US": "/ˈterərɪst/",
+        "UK": "/ˈterərɪst/",
+        "translation": "n. 恐怖主义者，恐怖分子<br>adj. 恐怖主义者的，恐怖分子的"
+    },
+    {
+        "value": "innovate",
+        "US": "/ˈɪnəveɪt/",
+        "UK": "/ˈɪnəveɪt/",
+        "translation": "v. 革新，创新"
+    },
+    {
+        "value": "quiz",
+        "US": "/kwɪz/",
+        "UK": "/kwɪz/",
+        "translation": "n. 问答比赛，智力竞赛；&lt;美&gt;小测验；&lt;英，非正式&gt;（尤指警方调查或正式调查中的）询问，审问；&lt;古&gt;恶作剧，戏弄；&lt;古&gt;戏弄他人者，恶作剧者；&lt;古&gt;（性格、相貌）古怪的人<br>v. 询问，审问；&lt;美&gt;测验（学生，班级）；&lt;古&gt;（透过镜片）好奇地（或仔细地）打量；&lt;古&gt;戏弄，取笑"
+    },
+    {
+        "value": "theft",
+        "US": "/θeft/",
+        "UK": "/θeft/",
+        "translation": "n. 偷窃，盗窃；盗窃罪"
+    },
+    {
+        "value": "motto",
+        "US": "/ˈmɑːtoʊ/",
+        "UK": "/ˈmɒtəʊ/",
+        "translation": "n. 座右铭，格言，警句；格言主题"
+    },
+    {
+        "value": "thereby",
+        "US": "/ˌðerˈbaɪ/",
+        "UK": "/ˌðeəˈbaɪ/",
+        "translation": "adv. 因此，从而"
+    },
+    {
+        "value": "unscathed",
+        "US": "/ʌnˈskeɪðd/",
+        "UK": "/ʌnˈskeɪðd/",
+        "translation": "adj. 未受伤的"
+    },
+    {
+        "value": "moustache",
+        "US": "/ˈmʌstæʃ; məˈstæʃ/",
+        "UK": "/ˈmʌstæʃ; məˈstɑːʃ/",
+        "translation": "n. 髭，小胡子；长髭；（动物嘴部周围的）须状物"
+    },
+    {
+        "value": "thermometer",
+        "US": "/θərˈmɑːmɪtər/",
+        "UK": "/θəˈmɒmɪtə(r)/",
+        "translation": "n. 温度计，寒暑表，体温计"
+    },
+    {
+        "value": "murder",
+        "US": "/ˈmɜːrdər/",
+        "UK": "/ˈmɜːdə(r)/",
+        "translation": "n. 谋杀，凶杀；<非正式>困难的事，讨厌的事；一群乌鸦<br>v. 谋杀，凶杀；糟蹋，毁坏；<非正式>彻底击败；<非正式>对……大发雷霆；<非正式>贪婪地吃（或喝）"
+    },
+    {
+        "value": "subsequently",
+        "US": "/ˈsʌbsɪkwəntli/",
+        "UK": "/ˈsʌbsɪkwəntli/",
+        "translation": "adv. 后来，随后"
+    },
+    {
+        "value": "wicked",
+        "US": "/ˈwɪkɪd/",
+        "UK": "/ˈwɪkɪd/",
+        "translation": "adj. 邪恶的，不道德的；恶作剧的，淘气的，调皮的；&lt;非正式&gt;很坏的，恶劣的；&lt;非正式&gt;很棒的，极好的；&lt;非正式&gt;令人不快的，令人厌恶的<br>adv. &lt;非正式&gt;极其，非常<br>n. 恶人，邪恶的人"
+    },
+    {
+        "value": "thus",
+        "US": "/ðʌs/",
+        "UK": "/ðʌs/",
+        "translation": "adv. <正式>因此；<正式>这样，以此种方式；<正式>到如此程度"
+    },
+    {
+        "value": "terrific",
+        "US": "/təˈrɪfɪk/",
+        "UK": "/təˈrɪfɪk/",
+        "translation": "adj. 极好的，了不起的；极大的，惊人的"
+    }
+]
